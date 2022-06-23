@@ -1,0 +1,556 @@
+index,Place_name,Latitude,Longitude,Category,Region,haversine_distance_from_centroid,haversine_distance_from_voosh_kitchen,09_30_voosh,19_00_voosh,13_30_voosh,distance_in_meters_from_voosh
+252,Prestige Sunrise Park Norwood,12.834542599999999,77.6637588,Apartments,"Adugodi, Bengaluru",1.1929624790522688,2.0567565767812317,10 mins,12 mins,11 mins,729
+943,Prestige Sunrise Park Norwood,12.834542599999999,77.6637588,Apartment,"Ambalipura, Bengaluru",1.1929624790522688,2.0567565767812317,10 mins,12 mins,11 mins,729
+1318,Siemens Technology and Services Private Limited,12.8450867,77.6609407,Office,"Ambalipura, Bengaluru",0.2597834494053711,1.6244650997939638,6 mins,7 mins,6 mins,439
+1547,Zolo Selene PG,12.8386672,77.6482698,PG,"Ambalipura, Bengaluru",1.7899065420656086,0.41142920507380587,3 mins,3 mins,3 mins,178
+1549,Zolo Euphoria Co-Living %7C Redefining PG,12.8492421,77.6551328,PG,"Ambalipura, Bengaluru",0.9927360296630633,1.2597412860479407,9 mins,10 mins,9 mins,603
+3075,Prestige Sunrise Park Norwood,12.834542599999999,77.6637588,Apartment,"Carmelaram, Bengaluru",1.1929624790522688,2.0567565767812317,10 mins,12 mins,11 mins,729
+3349,India Post,12.839884699999999,77.6630109,Office,"Carmelaram, Bengaluru",0.5990421237146313,1.8215973702999233,9 mins,10 mins,9 mins,597
+3623,Paying guest for ladies,12.850566699999998,77.66452579999999,PG,"Carmelaram, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+3641,Zolo Delphi,12.839968800000001,77.64998299999999,PG,"Carmelaram, Bengaluru",1.5621736549786178,0.4477692488925861,2 mins,2 mins,2 mins,145
+3693,Ajmera Stone Park Apartments,12.8375189,77.65084870000001,Apartment,"Electronic City, Bengaluru",1.603916599862259,0.6867776244086582,4 mins,5 mins,4 mins,278
+3694,WOODSTOCK APARTMENTS,12.8327325,77.6591191,Apartment,"Electronic City, Bengaluru",1.4662190239517503,1.7174938905509856,7 mins,9 mins,7 mins,514
+3695,Vasavi Rich Apartment,12.8408616,77.6463191,Apartment,"Electronic City, Bengaluru",1.9080553925816681,0.10959989603970374,1 min,1 min,1 min,51
+3696,Concorde Manhattans Apartment,12.8415743,77.6519022,Apartment,"Electronic City, Bengaluru",1.3050669655269038,0.6048977895693218,3 mins,4 mins,3 mins,241
+3698,Talasila Apartments,12.8429793,77.6457718,Apartment,"Electronic City, Bengaluru",1.9204099788090072,0.1396605639597403,1 min,1 min,1 min,63
+3699,S S Sankalp Apartment,12.8405384,77.6463287,Apartment,"Electronic City, Bengaluru",1.9165883829583636,0.14553216139120484,1 min,1 min,1 min,62
+3700,Ajmera Annex,12.841768199999999,77.6477055,Apartment,"Electronic City, Bengaluru",1.737917046124563,0.149414166007529,1 min,1 min,1 min,57
+3701,Maks Sundance Apartments,12.8512918,77.6569586,Apartment,"Electronic City, Bengaluru",0.9625612467738485,1.559068748680627,8 mins,10 mins,9 mins,599
+3704,Charvi Square Electronics City.,12.840106500000001,77.6451354,Apartment,"Electronic City, Bengaluru",2.054196726121903,0.23287172447465157,1 min,2 mins,1 min,92
+3705,DS-MAX STARRY,12.828848800000001,77.65168340000001,Apartment,"Electronic City, Bengaluru",2.2193836107132117,1.5575490367345686,9 mins,11 mins,9 mins,635
+3706,Keerthi Pride,12.849832000000001,77.649897,Apartment,"Electronic City, Bengaluru",1.542378254447692,0.9684423298292473,7 mins,8 mins,7 mins,454
+3707,Mahendra Elena 5,12.8276898,77.6559391,Apartment,"Electronic City, Bengaluru",2.111970557223432,1.8877502021334354,8 mins,9 mins,8 mins,539
+3708,kishore neeladri apartments,12.8400301,77.64586729999999,Apartment,"Electronic City, Bengaluru",1.980606044304109,0.2081786108458629,1 min,1 min,1 min,85
+3709,Ajmera Infinity,12.843283,77.6477137,Apartment,"Electronic City, Bengaluru",1.7072746516892598,0.21909505960709266,2 mins,2 mins,2 mins,118
+3710,Balaji Classic Apartment,12.8474913,77.6445929,Apartment,"Electronic City, Bengaluru",2.046391934421009,0.6552330988958671,3 mins,4 mins,3 mins,212
+3712,SK Aster Apartment,12.849965300000001,77.64660759999998,Apartment,"Electronic City, Bengaluru",1.8868062485249688,0.9031954025645851,5 mins,5 mins,4 mins,315
+3713,Paradise Tower Apartment,12.847420199999998,77.6504676,Apartment,"Electronic City, Bengaluru",1.4149299461112514,0.7650217509994518,6 mins,7 mins,6 mins,406
+3714,Vaibhav Residency,12.842804300000001,77.6460316,Apartment,"Electronic City, Bengaluru",1.8952051197153004,0.11122364556511713,1 min,1 min,1 min,72
+3715,Mayura e city apartment,12.8480549,77.6503985,Apartment,"Electronic City, Bengaluru",1.4359000386202423,0.8191724556560533,5 mins,6 mins,5 mins,367
+3716,SVR Orchid,12.8415681,77.6497056,Apartment,"Electronic City, Bengaluru",1.5331529070766328,0.3673077464492268,2 mins,2 mins,2 mins,127
+3717,PSR Krish Kamal,12.8401471,77.64403229999999,Apartment,"Electronic City, Bengaluru",2.1681021922989863,0.31268733230594115,1 min,2 mins,1 min,113
+3718,HARIPRIYA SAMRUDDHI APARTMENTS,12.8417076,77.6467992,Apartment,"Electronic City, Bengaluru",1.8352555857504023,0.053214637799622315,1 min,1 min,1 min,16
+3719,Laasya Pride,12.8406689,77.6641812,Apartment,"Electronic City, Bengaluru",0.5191083175858525,1.9397832104296489,9 mins,10 mins,9 mins,586
+3720,Velocity apartment- Apartments in Electronic City,12.8347451,77.6631014,Apartment,"Electronic City, Bengaluru",1.1698026853848456,1.982398519109322,12 mins,14 mins,13 mins,865
+3722,Vasavi Icon Apartment,12.8326935,77.665385,Apartment,"Electronic City, Bengaluru",1.415311200397633,2.303026915480961,13 mins,15 mins,13 mins,881
+3724,Neo Elite Apartments,12.8477175,77.6501545,Apartment,"Electronic City, Bengaluru",1.4542332619536384,0.7733177585845126,5 mins,6 mins,5 mins,356
+3726,Unitech Apartments,12.8405772,77.6687496,Apartment,"Electronic City, Bengaluru",0.7852957647795293,2.434731309633916,12 mins,14 mins,12 mins,813
+3727,Celebrity Signature,12.847037199999999,77.64497309999999,Apartment,"Electronic City, Bengaluru",1.9998743828985377,0.5955481630252094,3 mins,4 mins,3 mins,224
+3728,Ramky One Karnival,12.8286491,77.6617925,Apartment,"Electronic City, Bengaluru",1.8548911695582002,2.228035764114776,10 mins,11 mins,10 mins,675
+3729,Teja Intro Apartment,12.8478083,77.6521786,Apartment,"Electronic City, Bengaluru",1.2416428594535789,0.9172995940967311,7 mins,8 mins,7 mins,470
+3730,Pride Homes Apartment,12.8401517,77.6451823,Apartment,"Electronic City, Bengaluru",2.047913999923419,0.22587165040720594,1 min,2 mins,1 min,90
+3732,Sai Tirumala Residency Apartment,12.8476151,77.64551999999999,Apartment,"Electronic City, Bengaluru",1.9484603423334368,0.6473414581293487,4 mins,4 mins,4 mins,247
+3733,My Nest Apartment,12.832871699999998,77.65652840000001,Apartment,"Electronic City, Bengaluru",1.5627697281734219,1.4895093247589255,7 mins,8 mins,7 mins,497
+3734,Sai Priya Serenity Apartments,12.8406505,77.646027,Apartment,"Electronic City, Bengaluru",1.9447396389057112,0.13705407001579625,1 min,1 min,1 min,60
+3735,Athithi Pride Apartments,12.84042,77.6465382,Apartment,"Electronic City, Bengaluru",1.8984488498168948,0.16029937701176758,1 min,1 min,1 min,65
+3736,K and T Aiswaryam Apartments,12.8481184,77.6482053,Apartment,"Electronic City, Bengaluru",1.6701646962760726,0.7263682674871659,5 mins,5 mins,5 mins,328
+3737,Jai Ramapir Mobile Point,12.8330776,77.6673629,Apartment,"Electronic City, Bengaluru",1.4237506658560592,2.4800785939468653,13 mins,15 mins,13 mins,909
+3738,Srinivasam Apartments,12.842069,77.64600420000001,Apartment,"Electronic City, Bengaluru",1.9116367345046854,0.04305296025407458,1 min,1 min,1 min,43
+3739,Sujana Apartment I,12.8467041,77.646365,Apartment,"Electronic City, Bengaluru",1.8461900092599421,0.5400769442555171,5 mins,6 mins,5 mins,339
+3741,Srivanth Green View Apartment,12.8411741,77.66431700000001,Apartment,"Electronic City, Bengaluru",0.4670854531996387,1.9515097425450263,9 mins,10 mins,9 mins,598
+3742,Haripriya Samruddi Apartments,12.8412591,77.64895609999999,Apartment,"Electronic City, Bengaluru",1.6206846870244185,0.2921510857736186,1 min,1 min,1 min,80
+3746,SJR Equinox Apartment,12.848972400000001,77.6570602,Apartment,"Electronic City, Bengaluru",0.7950868396346206,1.407489604149306,8 mins,10 mins,9 mins,575
+3748,Moon Mist Apartments,12.8483294,77.6495805,Apartment,"Electronic City, Bengaluru",1.5291186865240691,0.8023348496554368,6 mins,7 mins,6 mins,391
+3749,Celebrity Classic Apartment,12.8470154,77.6457699,Apartment,"Electronic City, Bengaluru",1.9136837938217712,0.577874107592121,4 mins,4 mins,4 mins,268
+3750,Sree Sai Home Style Apartments,12.8495091,77.6483623,Apartment,"Electronic City, Bengaluru",1.6899757802588304,0.880001835508754,6 mins,7 mins,6 mins,419
+3751,Vasavi Pearl Apartment,12.8471284,77.6453379,Apartment,"Electronic City, Bengaluru",1.9615685422424036,0.5970060447070399,4 mins,4 mins,4 mins,257
+3752,Neeladri Castle Apartment,12.8390516,77.6503952,Apartment,"Electronic City, Bengaluru",1.5631837036593483,0.5393517350744291,2 mins,3 mins,3 mins,181
+3753,"Manifest White Orchid, Block-A, Celebrity Paradise Main Street",12.8478375,77.6547259,Apartment,"Electronic City, Bengaluru",0.9757377514231317,1.1279356983694278,8 mins,9 mins,8 mins,549
+3754,GLR NEELA,12.842079,77.64575500000001,Apartment,"Electronic City, Bengaluru",1.9379859101103996,0.0674263412132176,1 min,1 min,1 min,27
+3755,Balaji Serenity Apartment,12.849967699999999,77.6497693,Apartment,"Electronic City, Bengaluru",1.5604497459279658,0.9769268628347241,7 mins,8 mins,7 mins,456
+3756,Arka Residency,12.853288800000001,77.65767070000001,Apartment,"Electronic City, Bengaluru",1.082987060287487,1.7692573679505017,10 mins,11 mins,10 mins,662
+3757,Dayakamal Apartments,12.8493965,77.6527777,Apartment,"Electronic City, Bengaluru",1.2328814097338792,1.0923951272077241,8 mins,9 mins,8 mins,565
+3758,Alps South Brook Apartment,12.8394537,77.64629649999999,Apartment,"Electronic City, Bengaluru",1.9563955302273734,0.26616976229273015,2 mins,2 mins,2 mins,97
+3759,Om Sai Pearls(Apartment),12.8412951,77.64538449999999,Apartment,"Electronic City, Bengaluru",1.9949436361617594,0.11945505782559249,1 min,1 min,1 min,55
+3763,SK Daisy,12.832032199999999,77.64902690000001,Apartment,"Electronic City, Bengaluru",2.137535828925425,1.1298755553019835,4 mins,5 mins,4 mins,276
+3767,Srinivasa Nilaya Apartment,12.846412400000002,77.64912609999999,Apartment,"Electronic City, Bengaluru",1.545181870711372,0.5912658654673622,4 mins,5 mins,4 mins,306
+3768,"HAMSA RESIDENCY, Electronics City Phase 1.",12.8479255,77.6561651,Apartment,"Electronic City, Bengaluru",0.8312786684165829,1.2624432716307352,8 mins,10 mins,8 mins,574
+3769,Vasavi Rainbow,12.849803300000001,77.64543859999999,Apartment,"Electronic City, Bengaluru",2.0042701259403803,0.8899381813161273,4 mins,5 mins,4 mins,282
+3772,Phoenix Meadows Apartment,12.8405344,77.6502507,Apartment,"Electronic City, Bengaluru",1.5123296773862962,0.449457566826984,2 mins,2 mins,2 mins,130
+3773,Prashant Residency,12.847776199999998,77.64524899999999,Apartment,"Electronic City, Bengaluru",1.9800261116437223,0.6696052201148357,4 mins,4 mins,4 mins,251
+3774,Pragathi Royale- II,12.8491267,77.6453934,Apartment,"Electronic City, Bengaluru",1.9914409039236887,0.8157843341882072,4 mins,5 mins,4 mins,305
+3775,Murari Classic,12.8319782,77.66606800000001,Apartment,"Electronic City, Bengaluru",1.5067325063185797,2.4049159252056866,13 mins,15 mins,13 mins,910
+3777,SRK Silicana,12.849215199999998,77.6509865,Apartment,"Electronic City, Bengaluru",1.4085030663164502,0.9623440021137287,6 mins,7 mins,6 mins,429
+3778,Sri Balaji Residency,12.8461528,77.6424605,Apartment,"Electronic City, Bengaluru",2.2646821210416,0.6365285243643262,4 mins,5 mins,4 mins,281
+3779,Nenapu Apartments,12.8497392,77.6527039,Apartment,"Electronic City, Bengaluru",1.2549286944796287,1.116975152078991,8 mins,9 mins,8 mins,556
+3780,Aristo Marvel - Aakruti Properties And Constructions,12.838401199999998,77.6470954,Apartment,"Electronic City, Bengaluru",1.9183342406617858,0.392067249273865,2 mins,2 mins,2 mins,146
+3781,Sumukha Apartment,12.8410909,77.6461161,Apartment,"Electronic City, Bengaluru",1.9230247487302168,0.0872269178992805,1 min,1 min,1 min,42
+3782,Balaji Residency Apartment,12.8473684,77.6462941,Apartment,"Electronic City, Bengaluru",1.8616850290590072,0.6139424082524865,4 mins,5 mins,4 mins,280
+3783,venkatgiri apartment,12.83954,77.6458804,Apartment,"Electronic City, Bengaluru",1.9959514246916483,0.26113263746723253,2 mins,2 mins,2 mins,110
+3785,Elite Abhyudaya 1,12.846223599999998,77.65491879999999,Apartment,"Electronic City, Bengaluru",0.9181233137252155,1.0506607767993765,10 mins,10 mins,9 mins,620
+3786,NEST Apartment,12.8411389,77.6471176,Apartment,"Electronic City, Bengaluru",1.816489534307101,0.11618743221490424,1 min,1 min,1 min,53
+3787,Srikara ABODE,12.846440300000001,77.65258659999999,Apartment,"Electronic City, Bengaluru",1.1720607760343569,0.8491019873856199,7 mins,8 mins,7 mins,464
+3788,KMB CLASSIC,12.8469486,77.6503393,Apartment,"Electronic City, Bengaluru",1.4207772743325673,0.7146537185488385,6 mins,7 mins,6 mins,390
+3789,Vruddhi Mabella,12.8405841,77.6460336,Apartment,"Electronic City, Bengaluru",1.9460106345753423,0.1440723592629386,1 min,1 min,1 min,62
+3790,Ajmera Infinity G Block,12.843542800000002,77.6474354,Apartment,"Electronic City, Bengaluru",1.733773042554441,0.22342268870612889,2 mins,2 mins,2 mins,114
+3791,Falcon Apartment,12.8383273,77.6488824,Apartment,"Electronic City, Bengaluru",1.74590164574155,0.4793547202268016,3 mins,4 mins,3 mins,223
+3793,Maruthi Gold,12.8456391,77.6526181,Apartment,"Electronic City, Bengaluru",1.1620667432238894,0.8015958281949775,8 mins,8 mins,7 mins,491
+3794,Ganga Vertica,12.841569999999999,77.64817559999999,Apartment,"Electronic City, Bengaluru",1.693490267708233,0.20248095815249303,1 min,1 min,1 min,75
+3795,Passion Elite-1,12.850684199999998,77.6534134,Apartment,"Electronic City, Bengaluru",1.2325513742205663,1.247125444946533,8 mins,9 mins,8 mins,539
+3797,VSR Sunshine Apartment,12.8484615,77.6517506,Apartment,"Electronic City, Bengaluru",1.3047630328407895,0.941440327520319,7 mins,8 mins,7 mins,456
+3798,R S Happy Homes Apartment,12.8319947,77.6668787,Apartment,"Electronic City, Bengaluru",1.5247060063338198,2.482638437112089,14 mins,16 mins,14 mins,933
+3799,Shri Ram apartment,12.8328023,77.64715190000001,Apartment,"Electronic City, Bengaluru",2.2352147815961074,1.0096908648890845,4 mins,4 mins,4 mins,262
+3800,Shree Palace,12.832350300000002,77.6660214,Apartment,"Electronic City, Bengaluru",1.4651758131496937,2.38178892536647,13 mins,15 mins,13 mins,907
+3802,Abhyudaya apts 2,12.8460086,77.65507159999999,Apartment,"Electronic City, Bengaluru",0.8991542494468896,1.0546646124539776,10 mins,10 mins,10 mins,626
+3803,Grexter Polaris,12.8387213,77.650401,Apartment,"Electronic City, Bengaluru",1.5791978126562114,0.5618169789222235,3 mins,3 mins,3 mins,191
+3804,Concorde Silicon Valley,12.8391069,77.6520589,Apartment,"Electronic City, Bengaluru",1.4006254986462765,0.6918428059869133,3 mins,4 mins,3 mins,236
+3805,Green View Residency,12.847284599999998,77.6432413,Apartment,"Electronic City, Bengaluru",2.1894370090271758,0.6911304359876927,3 mins,4 mins,3 mins,214
+3806,Breeze County,12.8460795,77.6525167,Apartment,"Electronic City, Bengaluru",1.17581635896101,0.8193783256628421,7 mins,8 mins,7 mins,477
+3807,Celebrity Diamond Apartment,12.8457421,77.6528585,Apartment,"Electronic City, Bengaluru",1.1365007236436278,0.8297952484404646,8 mins,8 mins,7 mins,487
+3808,Sri vasane Sreenivasa Apartment,12.8456329,77.652829,Apartment,"Electronic City, Bengaluru",1.1391926252089846,0.8207758328187591,8 mins,8 mins,7 mins,491
+3809,Nakoda Apartments,12.8390445,77.6464846,Apartment,"Electronic City, Bengaluru",1.95280372679125,0.3120985879239195,2 mins,2 mins,2 mins,115
+3810,Sri Sai Brundavanam apartment,12.8487925,77.65059570000001,Apartment,"Electronic City, Bengaluru",1.435258677683954,0.9001752035144674,6 mins,7 mins,6 mins,391
+3813,Happy Homes 2,12.8348897,77.6498567,Apartment,"Electronic City, Bengaluru",1.8612254287472514,0.8629794400080505,5 mins,6 mins,5 mins,350
+3815,The Coach Villaments,12.840673800000001,77.6493038,Apartment,"Electronic City, Bengaluru",1.603979036398579,0.3478331232942076,2 mins,2 mins,2 mins,120
+3816,ATS NEST Apartment.,12.846391,77.6510066,Apartment,"Electronic City, Bengaluru",1.3418930347921505,0.7157940476105521,6 mins,7 mins,6 mins,408
+3817,Unitech Uniworld Resorts,12.8406761,77.668377,Apartment,"Electronic City, Bengaluru",0.7480071029605362,2.393781489952545,12 mins,14 mins,12 mins,821
+3818,ANR ManjuShri Residency,12.8479551,77.6543304,Apartment,"Electronic City, Bengaluru",1.0205640252863604,1.1016398202184123,8 mins,9 mins,8 mins,538
+3820,Qaiser Residency,12.8384613,77.64320409999999,Apartment,"Electronic City, Bengaluru",2.309300363403925,0.5065325141852838,3 mins,4 mins,3 mins,218
+3821,Sreevaru Srivasine,12.8454254,77.6528875,Apartment,"Electronic City, Bengaluru",1.1322522411449338,0.8147136002880742,8 mins,8 mins,8 mins,499
+3823,Hamzafar apartments,12.838014999999999,77.6465075,Apartment,"Electronic City, Bengaluru",1.9939434919597425,0.42655755256988154,2 mins,2 mins,2 mins,142
+3826,K and T's Sai Serenity,12.8496018,77.6495345,Apartment,"Electronic City, Bengaluru",1.571491631683277,0.929639352725998,7 mins,7 mins,6 mins,436
+3827,Sairam Palace,12.8428092,77.64542,Apartment,"Electronic City, Bengaluru",1.9607642969011472,0.1454962904964451,1 min,1 min,1 min,87
+3829,Ajmera Infinity Apartments,12.842517800000001,77.6476291,Apartment,"Electronic City, Bengaluru",1.7293471898416017,0.15939076161656185,5 mins,5 mins,5 mins,315
+3830,Prime city Apartments,12.848975099999999,77.64969140000001,Apartment,"Electronic City, Bengaluru",1.5351276717997997,0.8723635820245201,6 mins,7 mins,6 mins,412
+3833,MJR Clique Hercules,12.8299964,77.66585359999999,Apartment,"Electronic City, Bengaluru",1.7194763678054055,2.493376711302978,9 mins,11 mins,10 mins,663
+3835,SAI NILAYAM,12.844627699999998,77.6446252,Apartment,"Electronic City, Bengaluru",2.0290763651127466,0.36019221892725933,2 mins,3 mins,2 mins,161
+3839,Concorde Tech Turf,12.8320597,77.6554395,Apartment,"Electronic City, Bengaluru",1.6991941901401857,1.4696568839961404,7 mins,8 mins,7 mins,500
+3840,Sanvi Elite,12.8453427,77.65055809999998,Apartment,"Electronic City, Bengaluru",1.3846723944125667,0.6010134024834465,7 mins,7 mins,7 mins,435
+3841,Shrujana Nilaya,12.8462771,77.65515909999999,Apartment,"Electronic City, Bengaluru",0.8929855230715597,1.0765262399792264,10 mins,10 mins,9 mins,618
+3842,Balaji Brundhavanam,12.847469,77.65225009999999,Apartment,"Electronic City, Bengaluru",1.225995124104983,0.8959557432858145,7 mins,8 mins,7 mins,458
+3843,"Sai Srinivasa Enclave, Block-A",12.850328900000001,77.6465365,Apartment,"Electronic City, Bengaluru",1.9057688711037482,0.9433897496942497,4 mins,5 mins,4 mins,315
+3845,Jmr residency doddathogur electronic city,12.8499759,77.6485998,Apartment,"Electronic City, Bengaluru",1.6807212680058377,0.9367773687545153,7 mins,8 mins,7 mins,480
+3846,SAMK Whitestone Ashraya,12.832289300000001,77.6657192,Apartment,"Electronic City, Bengaluru",1.4656803488116383,2.3555195860113307,13 mins,15 mins,13 mins,901
+3847,Alps Northbrook,12.8424055,77.6453754,Apartment,"Electronic City, Bengaluru",1.972286595830197,0.12065550747434566,1 min,1 min,1 min,79
+3849,Vijay Krishna Mansion,12.8459356,77.6507647,Apartment,"Electronic City, Bengaluru",1.3642958986203475,0.6617021027455476,6 mins,7 mins,6 mins,414
+3851,Electronic city site,12.8371517,77.6437083,Apartment,"Electronic City, Bengaluru",2.310588089424992,0.594453076991731,2 mins,3 mins,2 mins,178
+3852,Mahaadeva constructions,12.8334276,77.65613979999999,Apartment,"Electronic City, Bengaluru",1.5295876788551903,1.4169266210665783,6 mins,8 mins,6 mins,454
+3853,3,12.8498316,77.65448409999999,Apartment,"Electronic City, Bengaluru",1.085249587962834,1.2528980462928934,9 mins,10 mins,9 mins,606
+3854,Home,12.8464484,77.6547533,Apartment,"Electronic City, Bengaluru",0.9391266819410411,1.0467797598484714,9 mins,10 mins,9 mins,611
+3855,Subha Omkara,12.832121699999998,77.666002,Apartment,"Electronic City, Bengaluru",1.4896841012654018,2.39129221501408,13 mins,15 mins,13 mins,908
+3857,Anoop Building,12.8376576,77.6468438,Apartment,"Electronic City, Bengaluru",1.9773193016081279,0.4691851981332314,3 mins,3 mins,3 mins,160
+3858,"No.14, Gowrishikara, Tech City Layout",12.8464053,77.6496887,Apartment,"Electronic City, Bengaluru",1.4843390657838524,0.6240965904307998,4 mins,5 mins,4 mins,302
+3860,"Godrej E-City, Bangalore",12.8517386,77.6527574,Apartment,"Electronic City, Bengaluru",1.3536055208732158,1.3020398177171124,8 mins,9 mins,8 mins,544
+3861,E BLOCK,12.8429066,77.64761829999999,Apartment,"Electronic City, Bengaluru",1.7233977605368924,0.18273867935976515,2 mins,2 mins,2 mins,99
+3862,Banglore home,12.840440800000001,77.64753329999999,Apartment,"Electronic City, Bengaluru",1.794566413744806,0.20367401203508573,1 min,2 mins,1 min,95
+3863,Innagai,12.8504074,77.65214,Apartment,"Electronic City, Bengaluru",1.341236135784782,1.1414043645087277,8 mins,9 mins,8 mins,520
+3864,K%26T Sai Swagruha,12.84654,77.6490179,Apartment,"Electronic City, Bengaluru",1.558100699540389,0.5976844598155168,4 mins,5 mins,4 mins,301
+3865,Tarun's Nest,12.846933300000002,77.652666,Apartment,"Electronic City, Bengaluru",1.1709414836736836,0.8897899578026567,7 mins,8 mins,7 mins,462
+3868,Sreenivasa building,12.837781300000001,77.6487613,Apartment,"Electronic City, Bengaluru",1.7851638187762269,0.5233524607061617,3 mins,4 mins,4 mins,240
+3870,Sharma Residency Electronic City Bangalore,12.8489445,77.64664520000001,Apartment,"Electronic City, Bengaluru",1.8545813123257504,0.7899257145804667,6 mins,7 mins,6 mins,399
+3874,Vidhaan Residency,12.8428014,77.6456872,Apartment,"Electronic City, Bengaluru",1.9322051376280198,0.12692370962721003,1 min,1 min,1 min,77
+3875,P Ananda Reddy building,12.8516737,77.66398079999999,Apartment,"Electronic City, Bengaluru",0.7163189694017712,2.2035677587798963,9 mins,10 mins,9 mins,621
+3879,TMT Building,12.846066699999998,77.65535870000001,Apartment,"Electronic City, Bengaluru",0.8688070968511497,1.0854969891548962,10 mins,10 mins,9 mins,624
+3881,YAP Residence,12.837970599999998,77.64762420000001,Apartment,"Electronic City, Bengaluru",1.8859611816348805,0.4533296955932448,3 mins,3 mins,3 mins,176
+3882,"NV Recidency,%23325",12.838903300000002,77.6490685,Apartment,"Electronic City, Bengaluru",1.700200555464663,0.44195123560722305,4 mins,4 mins,4 mins,241
+3883,"House no 40, site no 620, 5th cross, neeladri Nagar, electronic city phase 1",12.8372524,77.6486823,Apartment,"Electronic City, Bengaluru",1.8207844026285145,0.5710448821660924,4 mins,4 mins,4 mins,259
+3884,SMP House doddathogur,12.847539,77.65269090000001,Apartment,"Electronic City, Bengaluru",1.1808557396082806,0.9360329279795769,7 mins,8 mins,7 mins,481
+3885,Gowramma building,12.846977,77.6557463,Apartment,"Electronic City, Bengaluru",0.8439774864339898,1.1694270141356646,8 mins,9 mins,8 mins,566
+3886,Home Electronic City,12.8462987,77.6520142,Apartment,"Electronic City, Bengaluru",1.23217616886109,0.7904442567010592,7 mins,7 mins,7 mins,448
+3887,LAA Moonstone,12.8358052,77.6644558,Apartment,"Electronic City, Bengaluru",1.0587193065229048,2.076813930824082,10 mins,12 mins,11 mins,738
+3888,KGS HOMES,12.8503207,77.65545870000001,Apartment,"Electronic City, Bengaluru",1.0220026835809486,1.366475158164587,9 mins,10 mins,9 mins,621
+3891,VBM Maple,12.8498899,77.6457023,Apartment,"Electronic City, Bengaluru",1.9790980788947448,0.896891526912729,4 mins,5 mins,4 mins,288
+3892,Ittina Mahaveer Apartments,12.841032199999999,77.6484401,Apartment,"Electronic City, Bengaluru",1.681428840568577,0.24609083205415244,1 min,1 min,1 min,85
+3894,Sai Krishna Residency,12.848402,77.6521249,Apartment,"Electronic City, Bengaluru",1.2639265980998542,0.9622702585501176,7 mins,8 mins,7 mins,467
+3896,Lokesh Reddy Building,12.849542,77.655001,Apartment,"Electronic City, Bengaluru",1.020659428754254,1.2711536367185248,9 mins,11 mins,9 mins,633
+3900,Sri Venkateshwara Residency,12.8466851,77.6552184,Apartment,"Electronic City, Bengaluru",0.8935116632383424,1.1036345023012981,9 mins,10 mins,9 mins,600
+3901,Electronic City Bengaluru,12.8452145,77.6601695,Apartment,"Electronic City, Bengaluru",0.34269262010979873,1.5464285339022217,6 mins,7 mins,6 mins,420
+3903,Bellandur gate,12.8479996,77.6655628,Apartment,"Electronic City, Bengaluru",0.38882287120681225,2.1944679861657233,8 mins,10 mins,8 mins,575
+3905,MANYA Hi-Living,12.8499394,77.6535815,Apartment,"Electronic City, Bengaluru",1.177856364538182,1.1948832495226827,9 mins,10 mins,9 mins,621
+3906,"Godrej Nurture, Electronic City, Bangalore",12.834418199999998,77.66068179999999,Apartment,"Electronic City, Bengaluru",1.239598938208964,1.7616722357886434,13 mins,14 mins,13 mins,867
+3907,Royal Sai Homes - Serviced Apartment,12.8529704,77.6562283,Apartment,"Electronic City, Bengaluru",1.1520658888849662,1.637490297986901,11 mins,12 mins,10 mins,717
+3908,Shriram SUMMITT LANDOWNER UNITS,12.8408719,77.66438470000001,Apartment,"Electronic City, Bengaluru",0.5014766987747787,1.9604166965121015,9 mins,10 mins,9 mins,594
+3909,Sicindri Residency,12.847691699999999,77.64536640000001,Apartment,"Electronic City, Bengaluru",1.9661145031410903,0.6582172673363859,3 mins,4 mins,3 mins,241
+3910,sushil_home,12.8424871,77.64618490000001,Apartment,"Electronic City, Bengaluru",1.8842177478231086,0.07286487544104134,1 min,1 min,1 min,60
+3911,KSSIDC Complex,12.8395548,77.6622838,Apartment,"Electronic City, Bengaluru",0.6447815272988698,1.7483343467044583,9 mins,10 mins,9 mins,589
+3912,NLR Residency,12.8494539,77.65492840000002,Apartment,"Electronic City, Bengaluru",1.023130320711713,1.258740558420462,9 mins,11 mins,9 mins,636
+3913,Aubree @Electronic City,12.840474,77.6517747,Apartment,"Electronic City, Bengaluru",1.3612434012699084,0.6097430733193404,2 mins,3 mins,2 mins,152
+3914,Amethyst Central Serviced Apartments,12.85112,77.657199,Apartment,"Electronic City, Bengaluru",0.9305652464722537,1.5657838100666126,8 mins,10 mins,9 mins,585
+3915,SLR Habitat,12.8483691,77.6551437,Apartment,"Electronic City, Bengaluru",0.9523396000474862,1.1995787750213107,9 mins,10 mins,9 mins,574
+3916,Krishna Reddy Building,12.8495549,77.6552205,Apartment,"Electronic City, Bengaluru",1.000352031734073,1.2898043911171055,9 mins,11 mins,9 mins,632
+3917,Genesis Ecosphere,12.8408826,77.64972940000001,Apartment,"Electronic City, Bengaluru",1.5528658957286123,0.383864590371248,1 min,2 mins,1 min,99
+3918,House,12.8436868,77.64099300000001,Apartment,"Electronic City, Bengaluru",2.427960733273399,0.6136656149497449,3 mins,4 mins,3 mins,228
+3920,Rakshahomes,12.8498317,77.6544843,Apartment,"Electronic City, Bengaluru",1.0852356329203798,1.2529212246198385,9 mins,10 mins,9 mins,606
+3921,Kalpavruksha,12.8397041,77.65016109999999,Apartment,"Electronic City, Bengaluru",1.555764486923221,0.47888110308017656,2 mins,3 mins,2 mins,150
+3922,Colive Imperia PG,12.8521846,77.6661837,Apartment,"Electronic City, Bengaluru",0.8294932730687116,2.4401056933818634,11 mins,13 mins,11 mins,758
+3924,VBM Pride,12.8461069,77.65285920000001,Apartment,"Electronic City, Bengaluru",1.1390465501807097,0.8517325252178635,7 mins,8 mins,7 mins,475
+3926,Garudadri Serviced Apartments,12.8375282,77.6498562,Apartment,"Electronic City, Bengaluru",1.6951545517575788,0.6138514354305985,4 mins,4 mins,4 mins,254
+3927,Prime,12.8411679,77.6643814,Apartment,"Electronic City, Bengaluru",0.4694027311358889,1.9585129731557633,9 mins,10 mins,9 mins,599
+3931,Amith apartments,12.848742199999998,77.63933459999998,Apartment,"Electronic City, Bengaluru",2.6300013570023215,1.0783857460217021,8 mins,9 mins,8 mins,528
+3932,House for rent in Electronic city 1Bhk 2Bhk Room for rent in Electronic city,12.8523238,77.6638879,Apartment,"Electronic City, Bengaluru",0.7874503058136507,2.2316933823430376,10 mins,11 mins,10 mins,643
+3933,symphony suites,12.8358066,77.6644372,Apartment,"Electronic City, Bengaluru",1.058334087598077,2.0748555359479077,10 mins,12 mins,11 mins,738
+3934,Rosario StayAbode,12.8397125,77.6501636,Apartment,"Electronic City, Bengaluru",1.5551448178309104,0.47865232557257703,2 mins,3 mins,2 mins,150
+3936,Concorde Cuppertino,12.8414474,77.6531316,Apartment,"Electronic City, Bengaluru",1.1842638305218114,0.7387591435740157,3 mins,4 mins,3 mins,229
+3937,Maka sundance,12.8430636,77.656476,Apartment,"Electronic City, Bengaluru",0.7822855699742289,1.1082807441848457,8 mins,9 mins,8 mins,544
+3941,CoHo Electronic City,12.8477441,77.6436761,Apartment,"Electronic City, Bengaluru",2.1485137507619707,0.7160394409938674,3 mins,3 mins,3 mins,195
+3942,Laasya pride,12.857204600000001,77.64615909999999,Apartment,"Electronic City, Bengaluru",2.286564879451309,1.707767476008552,6 mins,7 mins,6 mins,410
+3944,Apartment building,12.845364,77.62824379999999,Apartment,"Electronic City, Bengaluru",3.80380499907255,1.999362513843976,8 mins,9 mins,8 mins,528
+3949,Iivaan Residency,12.8369765,77.6383002,Apartment,"Electronic City, Bengaluru",2.865766599407853,1.0252453487688282,5 mins,5 mins,5 mins,325
+3950,FOLK Residency,12.8429241,77.6534924,Apartment,"Electronic City, Bengaluru",1.0977868599005611,0.7857122984808058,4 mins,5 mins,4 mins,292
+3951,Velankani Tech Park,12.8491204,77.65828929999999,Apartment,"Electronic City, Bengaluru",0.69470726280184,1.5281205396278716,7 mins,9 mins,7 mins,517
+3952,Electronics City Phase 1,12.8430636,77.656476,Apartment,"Electronic City, Bengaluru",0.7822855699742289,1.1082807441848457,8 mins,9 mins,8 mins,544
+3953,Grexter orion,12.8392021,77.6466313,Apartment,"Electronic City, Bengaluru",1.9317540893994063,0.29593404312509053,2 mins,2 mins,2 mins,119
+3954,BDA Complex,12.840043099999999,77.6631622,Apartment,"Electronic City, Bengaluru",0.5807137321553862,1.8358747861416382,8 mins,10 mins,9 mins,585
+3955,Stanza Living Lisbon House,12.8481906,77.6571926,Apartment,"Electronic City, Bengaluru",0.7407436658975,1.372749015711634,9 mins,11 mins,10 mins,631
+3956,real estate business bangalore,12.846891000000001,77.645209,Apartment,"Electronic City, Bengaluru",1.9728688961386256,0.5738551578309342,4 mins,4 mins,4 mins,268
+3957,Zolo Euphoria Co-Living %7C Redefining PG,12.8492421,77.6551328,Apartment,"Electronic City, Bengaluru",0.9927360296630633,1.2597412860479407,9 mins,10 mins,9 mins,603
+3964,DODDATHOGUR HATHWAY BROBADBAND,12.8503629,77.6532098,Apartment,"Electronic City, Bengaluru",1.2350443166922112,1.2053927241257667,8 mins,9 mins,8 mins,554
+3967,PrimeCity Swimming Pool,12.8487151,77.6483497,Apartment,"Electronic City, Bengaluru",1.6687978261875676,0.7944557649334696,5 mins,6 mins,5 mins,340
+3968,MedPlus Ajmera Infinity Apartment,12.8444095,77.64791509999999,Apartment,"Electronic City, Bengaluru",1.6738735310537813,0.33274436203917224,3 mins,3 mins,3 mins,201
+3970,Equinox Tech Park,12.849886699999999,77.6574463,Apartment,"Electronic City, Bengaluru",0.8192758009351482,1.500531483206808,7 mins,9 mins,8 mins,536
+3972,HELLO PG FOR GENTS,12.849393699999998,77.6557824,Apartment,"Electronic City, Bengaluru",0.9383580337518365,1.3245131249848894,9 mins,11 mins,9 mins,634
+3976,Sajawat (The Furnishing Studio) ELECTRONIC CITY,12.841363900000001,77.6493792,Apartment,"Electronic City, Bengaluru",1.573378857281768,0.3349474742964413,1 min,2 mins,1 min,100
+3977,Dr Batra%E2%80%99s Homeopathy Clinic,12.8409948,77.6510982,Apartment,"Electronic City, Bengaluru",1.4084727573160536,0.5255890380012296,2 mins,2 mins,2 mins,147
+3983,Infosys Ltd (Corporate Office),12.8458944,77.6629141,Office,"Electronic City, Bengaluru",0.08344606126330364,1.8534285518914606,8 mins,9 mins,8 mins,528
+3984,India Post,12.839884699999999,77.6630109,Office,"Electronic City, Bengaluru",0.5990421237146313,1.8215973702999233,9 mins,10 mins,9 mins,597
+3985,"Earth block, DXC Office",12.8524696,77.6615528,Office,"Electronic City, Bengaluru",0.8241767845905408,2.0294878003598895,9 mins,10 mins,9 mins,607
+3986,Office,12.8380756,77.65666309999999,Office,"Electronic City, Bengaluru",1.07757326427732,1.1962170971584174,8 mins,9 mins,8 mins,537
+3987,"HP %26 DXC Office, Suryawave",12.8471441,77.6590347,Office,"Electronic City, Bengaluru",0.5104940202282215,1.498029148370393,7 mins,8 mins,7 mins,504
+3989,CGI,12.841229400000001,77.6673679,Office,"Electronic City, Bengaluru",0.6267310876574989,2.28186807422559,12 mins,13 mins,12 mins,805
+3990,SEW Office Bangalore,12.8397101,77.66159240000002,Office,"Electronic City, Bengaluru",0.6455570610536273,1.6716707801511823,8 mins,9 mins,8 mins,559
+3991,nAble Co-working Office Space,12.8397492,77.66168979999999,Office,"Electronic City, Bengaluru",0.6383781069087818,1.6815149338956399,8 mins,9 mins,8 mins,560
+3992,Infosys MNC Building,12.8412829,77.6643536,Office,"Electronic City, Bengaluru",0.4562662020736372,1.955048684286643,9 mins,10 mins,9 mins,601
+3994,Software Technology Parks of India Network Operations Center,12.838429699999999,77.66309629999999,Office,"Electronic City, Bengaluru",0.760253185469137,1.857039731390062,10 mins,11 mins,9 mins,641
+3995,Hewlett Packard Enterprise - Electronic City Campus,12.8536109,77.6602356,Office,"Electronic City, Bengaluru",0.9870072462478797,1.9959360375158104,9 mins,11 mins,9 mins,647
+3996,GoodWorks CoWork,12.8421071,77.6684583,Office,"Electronic City, Bengaluru",0.6574488936867152,2.3992181903660845,10 mins,12 mins,10 mins,696
+3997,HCL Technologies,12.849919,77.6573626,Office,"Electronic City, Bengaluru",0.8285995903142497,1.4954061417221884,8 mins,10 mins,8 mins,572
+3998,Titan Company,12.8417322,77.6662078,Office,"Electronic City, Bengaluru",0.5014697940323621,2.155098569469973,10 mins,11 mins,10 mins,664
+3999,Cyient Limited,12.8368765,77.6624353,Office,"Electronic City, Bengaluru",0.9375710622558668,1.831478683050914,12 mins,14 mins,12 mins,811
+4001,3M India Limited,12.8436128,77.6597395,Office,"Electronic City, Bengaluru",0.43034942343574156,1.4669984725127572,8 mins,9 mins,8 mins,528
+4002,BESCOM Office,12.836238400000001,77.66379690000001,Office,"Electronic City, Bengaluru",1.004767430512915,1.9937626826747439,11 mins,13 mins,11 mins,761
+4003,Electronic citi Post office,12.839880699999998,77.6628059,Office,"Electronic City, Bengaluru",0.6011787556500465,1.799588483363585,8 mins,10 mins,8 mins,579
+4004,HPI,12.8411055,77.6659195,Office,"Electronic City, Bengaluru",0.5408528038999283,2.1254083098257452,13 mins,14 mins,13 mins,836
+4005,Doddathogur Panchayat Office,12.853603699999999,77.6555502,Office,"Electronic City, Bengaluru",1.2536019186251268,1.6456469071149238,10 mins,11 mins,10 mins,682
+4006,"Focus Towers, Infosys",12.8449962,77.66659709999999,Office,"Electronic City, Bengaluru",0.3554214498178709,2.2249770961270356,11 mins,12 mins,11 mins,738
+4007,Edgeverve Office,12.8463589,77.6615767,Office,"Electronic City, Bengaluru",0.22579681631042248,1.7274235592475462,7 mins,8 mins,7 mins,473
+4008,Infosys Building 1,12.845879400000001,77.6630264,Office,"Electronic City, Bengaluru",0.0760384891683271,1.8648396574017512,8 mins,9 mins,8 mins,525
+4009,Hewlett Packard Enterprise,12.8542469,77.6608535,Office,"Electronic City, Bengaluru",1.0344164506966327,2.0928999609561507,10 mins,11 mins,10 mins,679
+4012,R And D block 3M India,12.8432905,77.659674,Office,"Electronic City, Bengaluru",0.4530080716255488,1.4555764988669115,7 mins,9 mins,7 mins,514
+4013,Infosys Building 5,12.8468614,77.6620414,Office,"Electronic City, Bengaluru",0.22607230666118625,1.7922781772522236,9 mins,10 mins,9 mins,596
+4015,Infosys Limited,12.842860400000001,77.6601256,Office,"Electronic City, Bengaluru",0.4382557302041165,1.4999000168448773,5 mins,6 mins,5 mins,374
+4016,Prestige Alecto,12.845116800000001,77.6620927,Office,"Electronic City, Bengaluru",0.13513315882282628,1.7471606535228994,9 mins,11 mins,9 mins,639
+4017,Wipro electronic City,12.837142300000002,77.6599657,Office,"Electronic City, Bengaluru",0.9738691866483135,1.568183648239578,5 mins,6 mins,5 mins,366
+4018,EIT Services India Pvt. Ltd.,12.853093300000001,77.6619941,Office,"Electronic City, Bengaluru",0.8826544423091572,2.108946992737251,9 mins,10 mins,9 mins,624
+4020,Wipro Limited,12.8384639,77.65627190000001,Office,"Electronic City, Bengaluru",1.0756958136099548,1.1416452850882424,3 mins,4 mins,4 mins,245
+4021,Infosys Building 6,12.8467211,77.6624927,Office,"Electronic City, Bengaluru",0.1858200546589575,1.834170593830745,9 mins,10 mins,9 mins,599
+4023,Wipro Limited - Gate 4,12.8376979,77.6608416,Office,"Electronic City, Bengaluru",0.8834077782209201,1.639559575447052,6 mins,6 mins,6 mins,388
+4024,Equinox Building Infosys Limited,12.846813800000001,77.6612824,Office,"Electronic City, Bengaluru",0.2811022346102441,1.7125529163847912,7 mins,8 mins,7 mins,481
+4025,Wipro Limited - Gate 1,12.83858,77.66268199999999,Office,"Electronic City, Bengaluru",0.7464323824792433,1.8096678056691797,6 mins,7 mins,6 mins,396
+4027,HPE,12.840073199999999,77.6645861,Office,"Electronic City, Bengaluru",0.5929281645252859,1.9890580490087224,9 mins,10 mins,9 mins,611
+4029,NRN Holdings,12.8441699,77.66132370000001,Office,"Electronic City, Bengaluru",0.249177568098838,1.6459386010239385,7 mins,8 mins,7 mins,477
+4030,Wipro - Gate 11,12.8375538,77.65814420000001,Office,"Electronic City, Bengaluru",1.0251512667813412,1.3669426846941846,4 mins,5 mins,4 mins,314
+4031,Infosys Building 7,12.846811,77.6627558,Office,"Electronic City, Bengaluru",0.1830438496627464,1.864374161350496,8 mins,9 mins,8 mins,538
+4032,Viteos Capital Market %26 Fund Services,12.8502566,77.65927009999999,Office,"Electronic City, Bengaluru",0.708555010125807,1.6859698655677957,8 mins,10 mins,9 mins,593
+4033,Infosys Crescent,12.8426244,77.66104659999999,Office,"Electronic City, Bengaluru",0.3838896437471288,1.597851198688579,7 mins,8 mins,7 mins,496
+4034,Infosys New Building,12.8450811,77.66650159999999,Office,"Electronic City, Bengaluru",0.3444220959085065,2.2162650368979158,11 mins,12 mins,11 mins,740
+4035,Infosys Phase 1 - Hiranandani building,12.842265300000001,77.6613839,Office,"Electronic City, Bengaluru",0.3944976324549531,1.632743525292224,8 mins,9 mins,8 mins,533
+4036,Bharat Heavy Electricals Limited,12.846364300000001,77.66016850000001,Office,"Electronic City, Bengaluru",0.36397647462557237,1.5821486536593234,6 mins,7 mins,6 mins,445
+4037,Gate 6 Infosys ltd,12.8502621,77.6640127,Office,"Electronic City, Bengaluru",0.5607780701983162,2.1332141562607587,9 mins,10 mins,9 mins,586
+4038,G4S,12.8459613,77.6517262,Office,"Electronic City, Bengaluru",1.2604000475800363,0.7426711532421572,7 mins,7 mins,7 mins,449
+4039,HP Computing %26 Printing systems India Pvt. Ltd.,12.8430636,77.656476,Office,"Electronic City, Bengaluru",0.7822855699742289,1.1082807441848457,8 mins,9 mins,8 mins,544
+4040,"Wipro Limited, EC-III, Tower 8,",12.8366627,77.6599003,Office,"Electronic City, Bengaluru",1.026059815141467,1.5801689834284274,5 mins,6 mins,6 mins,388
+4041,Infosys Building 2,12.845796400000001,77.6624575,Office,"Electronic City, Bengaluru",0.11165741838445455,1.802763579629856,8 mins,9 mins,8 mins,539
+4042,Velankani Group,12.8498198,77.66041949999999,Office,"Electronic City, Bengaluru",0.5969133588614403,1.7661190489415988,9 mins,11 mins,10 mins,664
+4043,HP PPS India Services Private Limited,12.8385924,77.6645905,Office,"Electronic City, Bengaluru",0.7542200908547405,2.0125447704368007,9 mins,10 mins,9 mins,625
+4044,"Yash Technologies,Electronics City",12.841301699999999,77.667324,Office,"Electronic City, Bengaluru",0.617657404577691,2.2768821834958732,12 mins,13 mins,12 mins,805
+4045,Infosys Building 4,12.846431800000001,77.6619213,Office,"Electronic City, Bengaluru",0.2005441532008829,1.7655290667002912,8 mins,10 mins,8 mins,573
+4046,Mahindra Electric Corporate Office,12.8491582,77.6585233,Office,"Electronic City, Bengaluru",0.6776122544357541,1.55190068437936,7 mins,9 mins,8 mins,529
+4047,Merck Tower 1,12.840942199999999,77.66569240000001,Office,"Electronic City, Bengaluru",0.5444477660855146,2.1015981210650483,9 mins,11 mins,9 mins,630
+4048,Tata Power Service,12.845286900000001,77.66515229999999,Office,"Electronic City, Bengaluru",0.1975646036013824,2.076150402709674,8 mins,10 mins,8 mins,571
+4049,Delta electronics india pvt. Ltd,12.839961099999998,77.66018559999999,Office,"Electronic City, Bengaluru",0.6810163811527573,1.5167458894857708,8 mins,10 mins,8 mins,570
+4051,"LIC of India - RR Insurance Solutions, authorized LIC premium collection center",12.8504136,77.6562371,Office,"Electronic City, Bengaluru",0.9588077771737582,1.4356128380782134,8 mins,10 mins,9 mins,591
+4052,Building 9 Infosys,12.847325900000001,77.6639991,Office,"Electronic City, Bengaluru",0.2405755409871557,2.0101240664904685,8 mins,9 mins,8 mins,538
+4053,Schneider Electric,12.8393436,77.6585703,Office,"Electronic City, Bengaluru",0.8363764476178045,1.3559419826667694,4 mins,5 mins,4 mins,277
+4054,Cyber Park,12.837830499999999,77.66368390000001,Office,"Electronic City, Bengaluru",0.8273480580031586,1.9337366649974457,10 mins,11 mins,10 mins,648
+4055,HP Inc,12.8411433,77.66559840000001,Office,"Electronic City, Bengaluru",0.5199233354646976,2.0904614955863936,13 mins,14 mins,13 mins,843
+4056,Bharat Sanchar Nigam Limited (BSNL),12.842603500000001,77.663612,Office,"Electronic City, Bengaluru",0.29729920229245027,1.8755231696541321,10 mins,11 mins,10 mins,674
+4057,Project People Services Pvt. Ltd.,12.843235,77.6643,Office,"Electronic City, Bengaluru",0.24881389196097017,1.9543249958155882,10 mins,12 mins,10 mins,692
+4058,Hicai - Momentive,12.8477047,77.6621829,Office,"Electronic City, Bengaluru",0.29863491643392664,1.8379619598092831,7 mins,9 mins,7 mins,510
+4059,Konnapana Agrahara Grama Panchayath Office.,12.853201199999999,77.6637259,Office,"Electronic City, Bengaluru",0.8837298901851827,2.2695194792462807,10 mins,11 mins,10 mins,674
+4060,Kewaunee Labway India Pvt Ltd (Corporate Office),12.854555,77.66217940000001,Office,"Electronic City, Bengaluru",1.0407273867963058,2.2246776700026802,10 mins,11 mins,10 mins,674
+4061,"Infosys Limited, Building 12",12.848348800000002,77.66552469999999,Office,"Electronic City, Bengaluru",0.4175398540380269,2.202977742257063,9 mins,10 mins,9 mins,581
+4062,3M india ltd-Blr plant,12.843341800000001,77.6595955,Office,"Electronic City, Bengaluru",0.45778323422025924,1.4477618037490378,7 mins,9 mins,7 mins,514
+4063,Infosys Limited,12.8501103,77.66633309999999,Office,"Electronic City, Bengaluru",0.629684582414891,2.3552254221512308,10 mins,11 mins,10 mins,642
+4064,Office Of Assistance Commissioner,12.8392345,77.6617083,Office,"Electronic City, Bengaluru",0.6930164899785962,1.6923831195724406,9 mins,10 mins,9 mins,591
+4065,"F2, Mahesh Reddy Building,",12.848275099999999,77.6624073,Office,"Electronic City, Bengaluru",0.3495521740086789,1.883867557239496,8 mins,9 mins,8 mins,519
+4066,Suhas Tech Park,12.840166,77.6644167,Office,"Electronic City, Bengaluru",0.578875170486742,1.9697776225834667,9 mins,10 mins,9 mins,607
+4067,TUV Rheinland New Building,12.8436607,77.6652137,Office,"Electronic City, Bengaluru",0.2710044826856169,2.0571857782545444,9 mins,10 mins,9 mins,589
+4068,EIT Services India Private Limited,12.8384383,77.6649765,Office,"Electronic City, Bengaluru",0.7795824517895011,2.056813741606373,9 mins,11 mins,9 mins,634
+4069,Infosys Building 34,12.850474,77.665971,Office,"Electronic City, Bengaluru",0.6463086203850731,2.3354468324179583,9 mins,10 mins,9 mins,618
+4070,ZED Tech Park,12.837451199999999,77.6625544,Office,"Electronic City, Bengaluru",0.8726964599177559,1.8256526743562185,12 mins,14 mins,12 mins,817
+4071,Robert Bosch Engineering and Business Solutions Private Limited,12.8377739,77.6637915,Office,"Electronic City, Bengaluru",0.8342530838030728,1.9465435331083742,10 mins,11 mins,10 mins,669
+4072,Infosys M %26 C (EC53),12.8418845,77.6602511,Office,"Electronic City, Bengaluru",0.5025506158865464,1.5092773088615121,5 mins,6 mins,5 mins,358
+4074,Alankit,12.8432399,77.6618974,Office,"Electronic City, Bengaluru",0.27337307708853326,1.6948385205861916,7 mins,8 mins,7 mins,506
+4075,GE Intelligence Training Center,12.8490103,77.65833959999999,Office,"Electronic City, Bengaluru",0.6828877189960602,1.5263260548052948,7 mins,9 mins,8 mins,521
+4076,Siemens Technology and Services Private Limited,12.8450867,77.6609407,Office,"Electronic City, Bengaluru",0.2597834494053711,1.6244650997939638,6 mins,7 mins,6 mins,439
+4077,M%26C,12.842449199999999,77.66023100000001,Office,"Electronic City, Bengaluru",0.45910862311485084,1.508576669425905,5 mins,6 mins,5 mins,368
+4078,Infosys Plot No 86 A And B,12.843575300000001,77.6612596,Office,"Electronic City, Bengaluru",0.29258371504576974,1.6299677020052807,7 mins,8 mins,7 mins,496
+4079,Novellogic Systems Private Limited,12.8430636,77.656476,Office,"Electronic City, Bengaluru",0.7822855699742289,1.1082807441848457,8 mins,9 mins,8 mins,544
+4080,GoodWorks Infinity Park,12.842200199999999,77.66865940000001,Office,"Electronic City, Bengaluru",0.6706696090396644,2.421163879522658,10 mins,12 mins,10 mins,698
+4083,TechnoSoft International LLP,12.8432084,77.6642362,Office,"Electronic City, Bengaluru",0.2486853069831469,1.9471978445139302,10 mins,12 mins,10 mins,691
+4084,Surya Wave Techpark,12.8470951,77.6589387,Office,"Electronic City, Bengaluru",0.5178377387861466,1.486317893153347,7 mins,8 mins,7 mins,505
+4085,GATE 2 INFOSYS LIMITED,12.8455462,77.66269659999999,Office,"Electronic City, Bengaluru",0.07555596257844656,1.8214326956374227,7 mins,8 mins,7 mins,481
+4086,Timken India Limited,12.851803199999999,77.6597298,Office,"Electronic City, Bengaluru",0.82535965561694,1.8264701341715661,9 mins,10 mins,9 mins,609
+4087,STPI IoT Open Lab,12.8389435,77.663964,Office,"Electronic City, Bengaluru",0.7060507655132497,1.93888524924383,9 mins,10 mins,9 mins,617
+4088,Entco Software India Pvt. Ltd.,12.842297,77.66461190000001,Office,"Electronic City, Bengaluru",0.35788563455718353,1.9826717541503394,9 mins,11 mins,9 mins,648
+4089,Infosys Gate 1,12.841312400000001,77.6609021,Office,"Electronic City, Bengaluru",0.5121171543516201,1.5809695836561815,7 mins,9 mins,8 mins,524
+4090,Rudhra Coworks,12.840116,77.6638772,Office,"Electronic City, Bengaluru",0.5753872279312092,1.9121121579958362,9 mins,10 mins,9 mins,594
+4091,Infosys ec47 gate3,12.8454794,77.66136350000001,Office,"Electronic City, Bengaluru",0.21455918012703332,1.6791554708021708,6 mins,8 mins,6 mins,451
+4092,Verifone,12.8378287,77.6637483,Office,"Electronic City, Bengaluru",0.8279009617097638,1.94057653607484,10 mins,11 mins,10 mins,649
+4093,Infosys Building 11,12.8489351,77.66476209999999,Office,"Electronic City, Bengaluru",0.4368344066998442,2.148106027682718,9 mins,10 mins,9 mins,593
+4095,Taneira Logistics Centre,12.8398246,77.6595097,Office,"Electronic City, Bengaluru",0.7329671939734125,1.4464906436140197,4 mins,5 mins,4 mins,316
+4096,Rto Consultants,12.841094300000002,77.66429079999999,Office,"Electronic City, Bengaluru",0.4750964940655492,1.9490326804661737,9 mins,10 mins,9 mins,596
+4097,Micro Focus India,12.842044900000001,77.66473609999998,Office,"Electronic City, Bengaluru",0.38894971265615447,1.9956278649182058,9 mins,11 mins,9 mins,643
+4098,Infosys Heritage Building,12.847741300000001,77.6640967,Office,"Electronic City, Bengaluru",0.2878324115239776,2.0346141848904775,8 mins,9 mins,8 mins,551
+4099,Oppo Service Center Electronic City,12.840156599999998,77.6640906,Office,"Electronic City, Bengaluru",0.5737620860837034,1.9346875694905772,9 mins,10 mins,9 mins,593
+4100,OnMobile Global Limited,12.841078,77.66580400000001,Office,"Electronic City, Bengaluru",0.5371079067442152,2.113017668608484,13 mins,14 mins,13 mins,839
+4101,Genpact,12.8390252,77.66450429999999,Office,"Electronic City, Bengaluru",0.7051983022904887,1.995218242442149,9 mins,10 mins,9 mins,619
+4102,Momentive MBS Office,12.845054,77.66498490000001,Office,"Electronic City, Bengaluru",0.18089775697100494,2.0536617131252823,8 mins,10 mins,8 mins,575
+4104,ESN World Laptop Service Center,12.850341499999999,77.6565029,Office,"Electronic City, Bengaluru",0.9309712896334541,1.45206990611417,8 mins,10 mins,8 mins,581
+4105,"GBS Systems %26 Services, Electronic City",12.8411138,77.65016130000001,Office,"Electronic City, Bengaluru",1.500372315225664,0.42332813388225166,1 min,2 mins,1 min,109
+4106,Neridio Systems Pvt.Ltd,12.8446908,77.6624635,Office,"Electronic City, Bengaluru",0.11346998836416665,1.777466557017429,9 mins,11 mins,9 mins,633
+4107,ByDesign India,12.8500151,77.65866820000001,Office,"Electronic City, Bengaluru",0.7311976988470084,1.6168388425372855,8 mins,10 mins,8 mins,574
+4108,Centre for Development of Telematics (C-DOT),12.8444691,77.6690607,Office,"Electronic City, Bengaluru",0.6275070805559358,2.4815264327783457,11 mins,12 mins,10 mins,710
+4109,Wipro Campus (Electronic City SEZ),12.8375417,77.6564919,Office,"Electronic City, Bengaluru",1.134353555362954,1.201255782350512,8 mins,9 mins,8 mins,542
+4110,Mahindra Electric Mobility Limited,12.848914599999999,77.6602011,Office,"Electronic City, Bengaluru",0.5290926170712398,1.6967853240529203,9 mins,11 mins,10 mins,644
+4112,JP Software Park,12.844366,77.66603909999999,Office,"Electronic City, Bengaluru",0.31016274239692126,2.155037629277735,12 mins,13 mins,11 mins,773
+4113,LIC Housing Finance Ltd Electronic City Business Center,12.8445162,77.66563149999999,Office,"Electronic City, Bengaluru",0.2629549605431522,2.113510834729918,8 mins,9 mins,8 mins,567
+4114,Salarpuria Infozone,12.851517,77.658534,Office,"Electronic City, Bengaluru",0.8683024897964896,1.7049026118929902,8 mins,10 mins,9 mins,595
+4115,Sify Technologies Limited,12.8380118,77.6637885,Office,"Electronic City, Bengaluru",0.8078288487199825,1.9402406363200255,10 mins,11 mins,10 mins,650
+4116,Electronic City Traffic Police Station,12.839447900000001,77.6615385,Office,"Electronic City, Bengaluru",0.6751549329919114,1.6702958942064319,8 mins,9 mins,8 mins,558
+4117,Bangalore Bioinnovation Centre,12.8438799,77.65656379999999,Office,"Electronic City, Bengaluru",0.7495031836105169,1.1323016893942794,8 mins,9 mins,8 mins,524
+4118,Mahindra LMM EVTech,12.849609800000001,77.6599697,Office,"Electronic City, Bengaluru",0.6052597029653596,1.712228343954897,10 mins,12 mins,10 mins,692
+4119,"Wipro EC4, Tower 12",12.836611099999999,77.655836,Office,"Electronic City, Bengaluru",1.2592241892397096,1.1837134122381812,5 mins,6 mins,6 mins,381
+4120,ELCITA,12.8499668,77.66239909999999,Office,"Electronic City, Bengaluru",0.5326880498723626,1.9621735245165606,8 mins,9 mins,8 mins,562
+4121,T%C3%9CV Rheinland (India) Pvt. Ltd.,12.8435452,77.6651963,Office,"Electronic City, Bengaluru",0.27824089888411935,2.0540886429643193,9 mins,10 mins,9 mins,593
+4122,Tektide Global,12.8404586,77.6626442,Office,"Electronic City, Bengaluru",0.539377479190803,1.7754484830650816,9 mins,10 mins,9 mins,587
+4124,TaxiVixi%C2%AE,12.8406224,77.66260729999999,Office,"Electronic City, Bengaluru",0.5219293308233413,1.7699680656407863,9 mins,10 mins,9 mins,590
+4125,Altorum Leren Private Limited,12.8430636,77.656476,Office,"Electronic City, Bengaluru",0.7822855699742289,1.1082807441848457,8 mins,9 mins,8 mins,544
+4126,Electronic city Bangalore,12.8434228,77.64182149999999,Office,"Electronic City, Bengaluru",2.3407686889507775,0.5192020450281835,3 mins,3 mins,3 mins,206
+4127,Hewlett Packard Enterprise (HPE) : Bengaluru India,12.8539115,77.6601632,Office,"Electronic City, Bengaluru",1.0211179574621299,2.0121421678021685,9 mins,11 mins,10 mins,655
+4129,Esecurewall Technologies,12.842791199999999,77.6587493,Office,"Electronic City, Bengaluru",0.56760497186839,1.3505387732337606,7 mins,8 mins,7 mins,498
+4130,Equinox Tech Park,12.849886699999999,77.6574463,Office,"Electronic City, Bengaluru",0.8192758009351482,1.500531483206808,7 mins,9 mins,8 mins,536
+4131,Flyover Bustop to Silkboard,12.8455322,77.6653063,Office,"Electronic City, Bengaluru",0.21632302938657613,2.0977184682055574,8 mins,9 mins,8 mins,528
+4132,Aquaguard Office,12.8430636,77.656476,Office,"Electronic City, Bengaluru",0.7822855699742289,1.1082807441848457,8 mins,9 mins,8 mins,544
+4133,Vi - Vodafone Idea Store,12.8403129,77.66257,Office,"Electronic City, Bengaluru",0.556562478976215,1.7689242607800653,8 mins,10 mins,8 mins,571
+4134,Losynth,12.8452608,77.6590348,Office,"Electronic City, Bengaluru",0.46566565350779326,1.4287423462795295,6 mins,7 mins,6 mins,442
+4135,Madhan Gowda,12.8452145,77.6601695,Office,"Electronic City, Bengaluru",0.34269262010979873,1.5464285339022217,6 mins,7 mins,6 mins,420
+4137,Terrier Security Services (India) Pvt Ltd,12.8525817,77.65694040000001,Office,"Electronic City, Bengaluru",1.0687035372282416,1.657702355015345,9 mins,10 mins,9 mins,609
+4138,Imcrinox Technologies Pvt Ltd,12.840451400000001,77.662624,Office,"Electronic City, Bengaluru",0.5404762832973515,1.7733367424892217,9 mins,10 mins,9 mins,587
+4139,"Godrej E-City, Bangalore",12.8517386,77.6527574,Office,"Electronic City, Bengaluru",1.3536055208732158,1.3020398177171124,8 mins,9 mins,8 mins,544
+4140,Samsung SmartCaf%C3%A9 (Touch Tech Telecom),12.840344300000002,77.66261290000001,Office,"Electronic City, Bengaluru",0.5524358853993687,1.7732210305499383,8 mins,10 mins,8 mins,572
+4141,Altimetrik India Private Limited,12.851349800000001,77.6636359,Office,"Electronic City, Bengaluru",0.6776324384350673,2.153276960003334,9 mins,10 mins,9 mins,614
+4142,Yokogawa India Limited,12.8483879,77.66307579999999,Office,"Electronic City, Bengaluru",0.3485645399774935,1.9557454151227203,8 mins,10 mins,9 mins,570
+4143,LR PG for Gents,12.853094300000002,77.65509509999998,Office,"Electronic City, Bengaluru",1.2471251792897247,1.570689958568322,10 mins,11 mins,9 mins,659
+4145,A to Z Enterprises,12.844312599999999,77.6656436,Office,"Electronic City, Bengaluru",0.2721657791827411,2.1117523879316975,8 mins,10 mins,8 mins,573
+4147,iPRIMED Education Solutions Private Limited,12.840361999999999,77.662532,Office,"Electronic City, Bengaluru",0.5517945635129559,1.764304181784877,8 mins,10 mins,8 mins,570
+4149,Janacare Solutions Pvt. Ltd.,12.8438767,77.6565557,Office,"Electronic City, Bengaluru",0.75043567680851,1.1313702065636524,8 mins,9 mins,8 mins,524
+4151,Electronic City Bengaluru,12.8452145,77.6601695,Office,"Electronic City, Bengaluru",0.34269262010979873,1.5464285339022217,6 mins,7 mins,6 mins,420
+4152,Thomas Cook,12.8404204,77.662487,Office,"Electronic City, Bengaluru",0.5461773044014946,1.7588491788279506,9 mins,10 mins,9 mins,588
+4153,Toll Gate Electronic city phase 1,12.8455924,77.6674593,Office,"Electronic City, Bengaluru",0.4491495444119982,2.3282698099789583,9 mins,10 mins,8 mins,594
+4154,SBI Life Insurance Company Limited,12.8398966,77.6620467,Office,"Electronic City, Bengaluru",0.6127256993049432,1.7176951960647058,8 mins,9 mins,8 mins,566
+4156,Snooker Cafe,12.8393852,77.66524270000001,Office,"Electronic City, Bengaluru",0.6856860364249028,2.068634844026635,10 mins,11 mins,10 mins,650
+4157,Venkatadri IT City,12.8545923,77.6618345,Office,"Electronic City, Bengaluru",1.0499659434808104,2.198597398498187,13 mins,14 mins,13 mins,856
+4158,EdgeVerve Systems Limited,12.8456489,77.6613048,Office,"Electronic City, Bengaluru",0.2237229020604996,1.6776284214119386,6 mins,8 mins,6 mins,451
+4159,DTDC Electronic city,12.853418,77.6638833,Office,"Electronic City, Bengaluru",0.9087756693019045,2.297133441396718,11 mins,11 mins,10 mins,686
+4161,Velankani Tech Park,12.8491204,77.65828929999999,Office,"Electronic City, Bengaluru",0.69470726280184,1.5281205396278716,7 mins,9 mins,7 mins,517
+4163,J J Glastronics (Automotive Division),12.8438726,77.66657559999999,Office,"Electronic City, Bengaluru",0.3843206423333484,2.206449913731117,12 mins,13 mins,12 mins,782
+4164,McWelHealthCare,12.843861500000001,77.6577318,Office,"Electronic City, Bengaluru",0.6266168354074374,1.2562678969483065,8 mins,9 mins,8 mins,520
+4166,ENTUNE IT Consulting Pvt. Ltd.,12.8379951,77.6626255,Office,"Electronic City, Bengaluru",0.8117582009811335,1.8178860937243193,6 mins,7 mins,6 mins,408
+4167,DOLPHY PACKAGING,12.8451851,77.6603698,Office,"Electronic City, Bengaluru",0.3210520997773649,1.566728772647498,6 mins,7 mins,6 mins,425
+4168,YULU Cycle Stand Near Building 1,12.8458206,77.66353000000001,Office,"Electronic City, Bengaluru",0.06567892365685832,1.9163620730321036,7 mins,9 mins,7 mins,511
+4169,IIITB Back Gate,12.8433525,77.6634553,Office,"Electronic City, Bengaluru",0.212872347883377,1.8641753386633144,10 mins,11 mins,10 mins,655
+4171,Deutsche India Private Limited,12.849137400000002,77.6594401,Office,"Electronic City, Bengaluru",0.6028682052818309,1.636245706495757,9 mins,11 mins,9 mins,635
+4172,Celstream Technologies Private Limited,12.842054,77.66475600000001,Office,"Electronic City, Bengaluru",0.38887154352532116,1.997796522266777,9 mins,11 mins,9 mins,643
+4173,Kaveri Tours Travels,12.8498317,77.6544843,Office,"Electronic City, Bengaluru",1.0852356329203798,1.2529212246198385,9 mins,10 mins,9 mins,606
+4174,"ICICI Bank Electronic City, Bangalore-Branch %26 ATM",12.8501076,77.6624971,Office,"Electronic City, Bengaluru",0.546211969151216,1.9788304243443553,8 mins,9 mins,8 mins,562
+4175,Emerson Automation Solutions Intelligent Platforms Private Limited,12.8491321,77.6602821,Office,"Electronic City, Bengaluru",0.5424788725606057,1.7158565983308753,10 mins,12 mins,10 mins,691
+4176,Electronic City Fire Station,12.8355428,77.6625775,Office,"Electronic City, Bengaluru",1.0839150389759433,1.8958733615604382,12 mins,14 mins,12 mins,833
+4177,Surya park,12.839542300000002,77.6642475,Office,"Electronic City, Bengaluru",0.6438428597918092,1.9593798450922262,9 mins,10 mins,9 mins,607
+4178,Center for Development of Advanced Computing,12.8421412,77.66306,Office,"Electronic City, Bengaluru",0.3483629711989875,1.814088739198765,10 mins,11 mins,10 mins,675
+4179,Mindgroom Career Counselling,12.8433709,77.6608686,Office,"Electronic City, Bengaluru",0.3398229784471532,1.585292257902403,7 mins,8 mins,7 mins,490
+4180,Web Fixer,12.8430636,77.656476,Office,"Electronic City, Bengaluru",0.7822855699742289,1.1082807441848457,8 mins,9 mins,8 mins,544
+4181,Shodhaka Life Sciences Pvt. Ltd.,12.8396565,77.66237690000001,Office,"Electronic City, Bengaluru",0.6319236316060222,1.7567163653762567,9 mins,10 mins,9 mins,587
+4182,CANARA BANK - BENGALURU ELECTRONIC CITY,12.8401535,77.6638921,Office,"Electronic City, Bengaluru",0.571409764549372,1.913304243879091,9 mins,10 mins,9 mins,593
+4183,IDBI Bank,12.840451400000001,77.662624,Office,"Electronic City, Bengaluru",0.5404762832973515,1.7733367424892217,9 mins,10 mins,9 mins,587
+4185,Electronic City,12.8452145,77.6601695,Office,"Electronic City, Bengaluru",0.34269262010979873,1.5464285339022217,6 mins,7 mins,6 mins,420
+4187,BloomSuites %7C Electronic City,12.8401347,77.65955129999999,Office,"Electronic City, Bengaluru",0.7021469541493396,1.446001622569387,4 mins,5 mins,4 mins,324
+4188,ADVITHA PET HOSPITAL Electronic City,12.853662599999998,77.66575300000001,Office,"Electronic City, Bengaluru",0.9702248806633034,2.4819543986223014,11 mins,13 mins,11 mins,759
+4189,Uniglobe Study Abroad overseas,12.8409155,77.66407070000001,Office,"Electronic City, Bengaluru",0.4900437080435919,1.9261607393782476,9 mins,10 mins,9 mins,589
+4190,Z cafe electronic city,12.853461,77.6633335,Office,"Electronic City, Bengaluru",0.9115762294503504,2.2507431669977005,11 mins,12 mins,11 mins,708
+4192,Coffee Cove,12.8443175,77.66408050000001,Office,"Electronic City, Bengaluru",0.13293422835373916,1.9439269797947376,9 mins,10 mins,9 mins,621
+4193,HDFC Home Loans - BENGALURU (ELECTRONIC CITY),12.8481125,77.6566562,Office,"Electronic City, Bengaluru",0.7898674522644372,1.3185890891086849,9 mins,10 mins,9 mins,620
+4194,Cyber Park,12.8409515,77.66397049999999,Office,"Electronic City, Bengaluru",0.4844194613105824,1.9151009798893504,9 mins,10 mins,9 mins,587
+4195,"Lemon Tree Hotel, Electronics City, Bangalore",12.8407175,77.6596037,Office,"Electronic City, Bengaluru",0.6470538245646675,1.4445599835776974,4 mins,6 mins,5 mins,338
+4197,Paying guest for ladies,12.850566699999998,77.66452579999999,Office,"Electronic City, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+4199,Stanza Living Lisbon House,12.8481906,77.6571926,Office,"Electronic City, Bengaluru",0.7407436658975,1.372749015711634,9 mins,11 mins,10 mins,631
+4200,Sorsfort International School,12.854686300000001,77.6633693,Office,"Electronic City, Bengaluru",1.0478320965582881,2.334655096270114,13 mins,15 mins,13 mins,870
+4201,Juicemaker (Electronic city ),12.8487301,77.6627387,Office,"Electronic City, Bengaluru",0.39081864598076776,1.9365874662757536,8 mins,9 mins,8 mins,528
+4202,"Zone by the Park Hotel, Electronic City, Bengaluru",12.844961099999999,77.66530329999999,Office,"Electronic City, Bengaluru",0.21653532968449712,2.085925534711105,8 mins,9 mins,8 mins,555
+4204,Crowne Plaza Bengaluru Electronics City,12.8501104,77.6601115,Office,"Electronic City, Bengaluru",0.6420925112099902,1.7540284582709396,9 mins,11 mins,10 mins,657
+4205,Thinker%E2%80%99s Statue,12.8448929,77.66397490000001,Office,"Electronic City, Bengaluru",0.08111717032828637,1.9427184066010537,9 mins,10 mins,9 mins,612
+4206,Golden Tulip Hotel,12.840129600000001,77.65961870000001,Office,"Electronic City, Bengaluru",0.6983722405472775,1.4533198497593052,4 mins,5 mins,4 mins,323
+4208,nSmiles I Private Limited,12.844565300000001,77.6625064,Office,"Electronic City, Bengaluru",0.11829503395856637,1.779620835265237,9 mins,10 mins,9 mins,627
+4209,Masjid e Rizwan,12.8501668,77.6572012,Office,"Electronic City, Bengaluru",0.8595423701012719,1.4983016077135856,8 mins,9 mins,8 mins,559
+4210,"Narayana Multispeciality Clinic, Electronic City Phase 1",12.848987,77.657569,Office,"Electronic City, Bengaluru",0.7493729707762881,1.4542978426769997,7 mins,9 mins,8 mins,531
+4211,Kritunga Restaurant,12.8417162,77.6465395,Office,"Electronic City, Bengaluru",1.8625565725965725,0.02700980415263333,1 min,1 min,1 min,22
+4213,Delhi Public School Electronic city,12.847209,77.6294197,Office,"Electronic City, Bengaluru",3.682655538366723,1.9277693880578237,7 mins,8 mins,7 mins,480
+4214,Spectrum Physio Centre - Electronic city phase 1,12.8400791,77.64995479999999,Office,"Electronic City, Bengaluru",1.5604335228622586,0.43944480594469365,2 mins,2 mins,2 mins,142
+4215,Paradise Biryani %7C Electronic City,12.848299699999998,77.65758879999998,Office,"Electronic City, Bengaluru",0.7081185007473415,1.4158793762699322,7 mins,8 mins,7 mins,498
+4225,SLV PG for Men,12.8391923,77.64678640000001,PG,"Electronic City, Bengaluru",1.9163882255888969,0.29933516166156654,2 mins,2 mins,2 mins,118
+4226,Zolo Chronicle - PG in Electronics City Phase,12.8379215,77.6479482,PG,"Electronic City, Bengaluru",1.856703218600882,0.47046554038003435,3 mins,3 mins,3 mins,186
+4228,Zolo Leia PG,12.8412804,77.6493213,PG,"Electronic City, Bengaluru",1.5819880838464662,0.33039799014663274,1 min,2 mins,1 min,97
+4231,Zolo Lumiere PG,12.8381635,77.65014670000001,PG,"Electronic City, Bengaluru",1.6327889858412448,0.5822589754027342,3 mins,3 mins,3 mins,209
+4232,Zolo Selene PG,12.8386672,77.6482698,PG,"Electronic City, Bengaluru",1.7899065420656086,0.41142920507380587,3 mins,3 mins,3 mins,178
+4236,Zolo Euphoria Co-Living %7C Redefining PG,12.8492421,77.6551328,PG,"Electronic City, Bengaluru",0.9927360296630633,1.2597412860479407,9 mins,10 mins,9 mins,603
+4237,Zolo Candeo PG,12.8384253,77.6485617,PG,"Electronic City, Bengaluru",1.77245832568836,0.45092569179232433,3 mins,4 mins,3 mins,235
+4238,NAGGACHAITTANYA LADIES PG In Electronic City Phase 1,12.8389079,77.6498394,PG,"Electronic City, Bengaluru",1.6243461684597023,0.5016008596803999,2 mins,3 mins,2 mins,172
+4240,Wake Up Mens Pg EC,12.833087400000002,77.6562441,PG,"Electronic City, Bengaluru",1.5566426646985991,1.4505606398950024,6 mins,8 mins,7 mins,472
+4241,Zolo Creedence Co-Living %7C Redefining PG,12.8387757,77.6486439,PG,"Electronic City, Bengaluru",1.7479752334542473,0.4237850698962693,4 mins,4 mins,4 mins,250
+4242,Sri Venkata Sai PG For Gents,12.8388517,77.6493717,PG,"Electronic City, Bengaluru",1.6728010686954162,0.4687338227653317,3 mins,4 mins,3 mins,233
+4243,SLV PG For Ladies,12.8392632,77.6504653,PG,"Electronic City, Bengaluru",1.5460713194126317,0.5325247957155963,2 mins,3 mins,2 mins,174
+4244,Zolo Delphi,12.839968800000001,77.64998299999999,PG,"Electronic City, Bengaluru",1.5621736549786178,0.4477692488925861,2 mins,2 mins,2 mins,145
+4246,Naggachaittanyapg For Gents,12.8417037,77.6499124,PG,"Electronic City, Bengaluru",1.5075361560202623,0.38874180995294993,2 mins,2 mins,2 mins,132
+4247,Daffodils PG for women in electronic city,12.8522549,77.6632859,PG,"Electronic City, Bengaluru",0.7774785493268965,2.172202498279659,10 mins,11 mins,10 mins,664
+4249,Star PG (Gents),12.8373244,77.648909,PG,"Electronic City, Bengaluru",1.795439000100462,0.5754275643390263,3 mins,4 mins,3 mins,232
+4251,Royal Pg,12.839186300000001,77.65946020000001,PG,"Electronic City, Bengaluru",0.7953582633096552,1.4539586230941537,8 mins,10 mins,8 mins,585
+4252,Sri Janani PG,12.8404531,77.64744940000001,PG,"Electronic City, Bengaluru",1.8028425601211973,0.19689115366014093,1 min,2 mins,1 min,95
+4253,SV HOMES LUXURY PG FOR LADIES,12.8407477,77.64585179999999,PG,"Electronic City, Bengaluru",1.960271154515599,0.13278421242415991,1 min,1 min,1 min,57
+4255,VijayaLakshmi PG,12.8393511,77.6500925,PG,"Electronic City, Bengaluru",1.578531953572976,0.4934090148465369,2 mins,3 mins,2 mins,159
+4256,Gauthami PG for Girls,12.838359,77.6497257,PG,"Electronic City, Bengaluru",1.6627391188697918,0.5347869388914402,3 mins,3 mins,3 mins,188
+4258,Zolo Cider Co-Living %7C Redefining PG,12.838769099999999,77.6490685,PG,"Electronic City, Bengaluru",1.7064615891686759,0.4531150157627622,3 mins,4 mins,4 mins,237
+4259,Paying guest for ladies,12.850566699999998,77.66452579999999,PG,"Electronic City, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+4260,Sri Venkateshwara PG Electronic city,12.8381607,77.6479047,PG,"Electronic City, Bengaluru",1.8494261351111565,0.44406252586611755,3 mins,3 mins,3 mins,167
+4262,Kumar Pg For Gents,12.8377514,77.648213,PG,"Electronic City, Bengaluru",1.8394737836645685,0.49910663715559966,3 mins,3 mins,3 mins,201
+4263,Colive Imperia PG,12.8521846,77.6661837,PG,"Electronic City, Bengaluru",0.8294932730687116,2.4401056933818634,11 mins,13 mins,11 mins,758
+4264,Shri Chaitanya PG,12.841833,77.6498235,PG,"Electronic City, Bengaluru",1.5131499878774097,0.37877939773543573,2 mins,2 mins,2 mins,136
+4266,Royal PG for Ladies,12.851198,77.66407059999999,PG,"Electronic City, Bengaluru",0.6648062138495822,2.1863842447861694,9 mins,10 mins,9 mins,610
+4268,Annapoorneshwari Pg,12.8386884,77.64933149999999,PG,"Electronic City, Bengaluru",1.6845457036847655,0.47883390948363524,3 mins,4 mins,3 mins,225
+4272,Sri Lakshmi venkateshwara PG for ladies,12.8415397,77.64974190000001,PG,"Electronic City, Bengaluru",1.530213284189782,0.3715065966746114,2 mins,2 mins,2 mins,126
+4273,SRI ANNAPOORNESHWARI PG,12.850434199999999,77.6561053,PG,"Electronic City, Bengaluru",0.9716585209941495,1.4264862240734153,8 mins,10 mins,9 mins,596
+4276,Heaven PG,12.8480596,77.6547299,PG,"Electronic City, Bengaluru",0.982855129261174,1.143038910264903,8 mins,9 mins,8 mins,549
+4278,Sri Balaji PG for Gents In Electronic City Phase 1,12.8396678,77.6499661,PG,"Electronic City, Bengaluru",1.57677569228838,0.46276481165823696,2 mins,3 mins,2 mins,152
+4283,S.S.M PG FOR LADIES,12.851512199999998,77.6647923,PG,"Electronic City, Bengaluru",0.7127303221455052,2.2718343249542605,10 mins,11 mins,10 mins,660
+4284,Comfort Homes Ladies PG,12.8396164,77.6456462,PG,"Electronic City, Bengaluru",2.017372575376685,0.2588856126418905,2 mins,2 mins,2 mins,123
+4286,Svs pg,12.8386264,77.6503537,PG,"Electronic City, Bengaluru",1.5886256931853042,0.5644332354540601,3 mins,3 mins,3 mins,194
+4290,VSR STAY IN LADIES PG MAINTAIN BY PRAZO,12.853617199999999,77.662762,PG,"Electronic City, Bengaluru",0.9309843406684778,2.21052463849226,11 mins,12 mins,11 mins,729
+4291,7 Hills PG for Ladies,12.8412622,77.6498739,PG,"Electronic City, Bengaluru",1.525155480616152,0.3897078720126074,2 mins,2 mins,2 mins,117
+4292,Snehita PG,12.8543811,77.66362120000001,PG,"Electronic City, Bengaluru",1.0143777040608963,2.3359175346796457,13 mins,15 mins,13 mins,877
+4295,SRI SAI BALAJI PG FOR GENTS,12.8379352,77.6497707,PG,"Electronic City, Bengaluru",1.6807476530581567,0.5730537767302898,3 mins,4 mins,4 mins,236
+4297,HELLO PG FOR GENTS,12.849393699999998,77.6557824,PG,"Electronic City, Bengaluru",0.9383580337518365,1.3245131249848894,9 mins,11 mins,9 mins,634
+4301,Angels Nest Ladies PG,12.8410315,77.6476921,PG,"Electronic City, Bengaluru",1.75945031687091,0.17332931808494909,1 min,1 min,1 min,73
+4308,Vijayalakshmi Pg For Gents,12.839123599999999,77.64869909999999,PG,"Electronic City, Bengaluru",1.726869570027483,0.397120240212317,4 mins,4 mins,4 mins,259
+4310,ABHIRAM LUXURY PG FOR WOMEN,12.8383296,77.65028740000001,PG,"Electronic City, Bengaluru",1.6105303592647386,0.5805974114972633,3 mins,3 mins,3 mins,202
+4311,Sri Sai Srinivasa Gents PG,12.8535095,77.66549930000001,PG,"Electronic City, Bengaluru",0.9466432867662429,2.4496088683599533,11 mins,13 mins,11 mins,760
+4312,Royal pg for ladies,12.8399845,77.64993869999999,PG,"Electronic City, Bengaluru",1.565968140089242,0.4427072266661033,2 mins,2 mins,2 mins,144
+4313,Sri Balaji PG for Gents,12.850024900000001,77.65587159999998,PG,"Electronic City, Bengaluru",0.9665314694973509,1.3773029954439109,9 mins,10 mins,9 mins,611
+4317,OYO LIFE BLR1561,12.8390567,77.6482629,PG,"Electronic City, Bengaluru",1.773288111951045,0.37444143630038124,3 mins,3 mins,3 mins,191
+4318,JMJ GRANDLADIES PG,12.8533914,77.6631611,PG,"Electronic City, Bengaluru",0.9040226965045164,2.2309996440900797,11 mins,12 mins,11 mins,713
+4321,Shri Ganesh PG For Gents,12.850683,77.6548938,PG,"Electronic City, Bengaluru",1.0953061420488293,1.3517844145505566,9 mins,10 mins,8 mins,586
+4326,Sri Sai Ganga Gouthami PG for GENTS,12.838106300000002,77.6495973,PG,"Electronic City, Bengaluru",1.6881623357486841,0.5463769337327343,3 mins,3 mins,3 mins,197
+4327,Manikanta PG For Gents,12.849345300000001,77.65573520000001,PG,"Electronic City, Bengaluru",0.9402134223521725,1.3171447946935426,9 mins,11 mins,9 mins,636
+4330,G K PG,12.8502966,77.6589733,PG,"Electronic City, Bengaluru",0.7323726655211714,1.6618021547054098,8 mins,10 mins,9 mins,589
+4333,Naggachaitanya Ladies Pg,12.839872999999999,77.646783,PG,"Electronic City, Bengaluru",1.891401429902478,0.22495502215605168,1 min,2 mins,1 min,96
+4334,Royal luxury pg,12.8400791,77.64995479999999,PG,"Electronic City, Bengaluru",1.5604335228622586,0.43944480594469365,2 mins,2 mins,2 mins,142
+4336,Best Boys%2FGirls PG in Bangalore,12.8404707,77.6474463,PG,"Electronic City, Bengaluru",1.8025839479899899,0.19514539686743515,1 min,2 mins,1 min,94
+4337,Sri Lasya PG For gents,12.8519212,77.6549382,PG,"Electronic City, Bengaluru",1.1729540672497263,1.4580049229333953,9 mins,11 mins,9 mins,630
+4338,Sunshine Pg For Ladies,12.8540156,77.66315340000001,PG,"Electronic City, Bengaluru",0.9734334941570177,2.2709722829141192,12 mins,13 mins,12 mins,772
+4339,Gents PG,12.838122199999999,77.6450985,PG,"Electronic City, Bengaluru",2.130085144892959,0.43517806622955524,2 mins,3 mins,2 mins,156
+4340,AVS PG For Ladies,12.8534709,77.6630583,PG,"Electronic City, Bengaluru",0.9131525912398185,2.2270123731447273,11 mins,12 mins,11 mins,715
+4342,S R Comforts,12.8376296,77.6499923,PG,"Electronic City, Bengaluru",1.6767201661894748,0.6145006949664245,4 mins,4 mins,4 mins,258
+4344,VSR PG For Womens,12.851198,77.66407059999999,PG,"Electronic City, Bengaluru",0.6648062138495822,2.1863842447861694,9 mins,10 mins,9 mins,610
+4348,New Deluxe PG,12.8329072,77.6568181,PG,"Electronic City, Bengaluru",1.544685230759861,1.5103695833233939,7 mins,8 mins,7 mins,485
+4353,LOTUS PG For Ladies,12.8517011,77.6648199,PG,"Electronic City, Bengaluru",0.733876542742857,2.284470170556658,10 mins,11 mins,10 mins,654
+4354,Sri Durga PG,12.8384668,77.64988290000001,PG,"Electronic City, Bengaluru",1.6420893920206947,0.5382210829532997,3 mins,3 mins,3 mins,184
+4356,Stanza Living Lisbon House,12.8481906,77.6571926,PG,"Electronic City, Bengaluru",0.7407436658975,1.372749015711634,9 mins,11 mins,10 mins,631
+4357,Sri Srinivasa Gents P.G,12.8498898,77.6544431,PG,"Electronic City, Bengaluru",1.0922126986100087,1.254371281669258,9 mins,10 mins,9 mins,594
+4359,Sai Baba PG for Gents,12.8382123,77.6477838,PG,"Electronic City, Bengaluru",1.8588592830796054,0.4338387257558479,3 mins,3 mins,3 mins,166
+4365,Sri Venkateshwara PG For Gents,12.8498085,77.65521650000001,PG,"Electronic City, Bengaluru",1.0144833991856774,1.308392274213115,9 mins,10 mins,9 mins,625
+4366,Vijayalakshmi pg for Ladies,12.838429199999998,77.6501085,PG,"Electronic City, Bengaluru",1.6223684413639392,0.5588240598545072,3 mins,3 mins,3 mins,200
+4368,Stanza Living Messina House,12.837764100000001,77.64942640000001,PG,"Electronic City, Bengaluru",1.7226193239610652,0.5646661205355489,3 mins,4 mins,4 mins,236
+4369,SLN1 LADIES PG,12.840098900000001,77.6505997,PG,"Electronic City, Bengaluru",1.494838661165051,0.5020906920193821,2 mins,3 mins,2 mins,152
+4371,Sri Bhuvaneshwari PG for Gents,12.848020199999999,77.65495229999999,PG,"Electronic City, Bengaluru",0.9586031841555,1.1597416929966002,9 mins,9 mins,8 mins,556
+4374,Nishi Ladies PG -- Prazo,12.8540599,77.6632647,PG,"Electronic City, Bengaluru",0.9781965999827977,2.283600011831895,12 mins,13 mins,12 mins,770
+4375,Satya Gents PG Hostel,12.8377061,77.6494842,PG,"Electronic City, Bengaluru",1.7202799060072445,0.5735787183759897,3 mins,4 mins,4 mins,239
+4377,Kaveri PG,12.854098,77.664098,PG,"Electronic City, Bengaluru",0.9859281261443646,2.3592855778021082,12 mins,12 mins,11 mins,745
+4385,VSS PG for Gents,12.8516289,77.6635179,PG,"Electronic City, Bengaluru",0.7081483208079078,2.1576159670916653,10 mins,11 mins,10 mins,648
+4386,Amazing Grace Gents PG,12.8493076,77.6415939,PG,"Electronic City, Bengaluru",2.398988276947479,0.9755859146527641,9 mins,10 mins,9 mins,584
+4387,A.R. Royal PG,12.8324331,77.6580002,PG,"Electronic City, Bengaluru",1.5392063466780217,1.6421612923550726,7 mins,9 mins,7 mins,514
+4390,Shree Sapthagiri Pg For Gents,12.853100999999999,77.66398000000001,PG,"Electronic City, Bengaluru",0.8743889605052931,2.286345445270839,10 mins,11 mins,10 mins,675
+4391,pure veg pg in electronic city,12.837649,77.6482702,PG,"Electronic City, Bengaluru",1.8391648648248096,0.5120345259048933,3 mins,3 mins,3 mins,204
+4394,Shri Gajalakshmi PG,12.8528396,77.6567462,PG,"Electronic City, Bengaluru",1.104189951015437,1.6641106939201835,9 mins,10 mins,9 mins,625
+4397,VSL PG FOR GENTS,12.8378218,77.6498941,PG,"Electronic City, Bengaluru",1.6752514980442887,0.591337946399377,4 mins,4 mins,4 mins,241
+4398,MS PG FOR GENTS,12.8386409,77.649274,PG,"Electronic City, Bengaluru",1.692455427925238,0.47854111457180737,3 mins,4 mins,3 mins,224
+4399,Sri Dodamma Devi PG,12.851878999999998,77.6572568,PG,"Electronic City, Bengaluru",0.9872754420490748,1.6271590003881506,8 mins,10 mins,9 mins,589
+4403,BALAJI LADIES PG,12.8543659,77.6636214,PG,"Electronic City, Bengaluru",1.0126890341301484,2.3349269572166405,13 mins,15 mins,13 mins,877
+4404,Flora Ladies PG,12.8514302,77.66431829999999,PG,"Electronic City, Bengaluru",0.6940786335257361,2.22230710564874,10 mins,11 mins,10 mins,630
+4405,SRI RAMA SAI PG FOR GENTS,12.837869699999999,77.64967,PG,"Electronic City, Bengaluru",1.6938276160416452,0.5716237747051046,3 mins,4 mins,3 mins,234
+4406,Guru pg for mens,12.8527465,77.6647045,PG,"Electronic City, Bengaluru",0.8453614905782124,2.3317453934233927,12 mins,12 mins,11 mins,743
+4407,Aadhya Residency (Sri Annapurneshwari Gents PG),12.851792999999999,77.65615059999999,PG,"Electronic City, Bengaluru",1.064441489790919,1.5351396852073953,10 mins,11 mins,9 mins,647
+4409,Manu Ladies PG maintained by Prazo,12.8531189,77.6635973,PG,"Electronic City, Bengaluru",0.8740164073104828,2.2528435445127912,11 mins,11 mins,10 mins,680
+4412,Sri Mahavishnu PG for Ladies,12.851765499999999,77.6643115,PG,"Electronic City, Bengaluru",0.7308305174385643,2.239780528538187,10 mins,11 mins,10 mins,642
+4414,PG for Girls,12.8398937,77.6467272,PG,"Electronic City, Bengaluru",1.8964141440587559,0.22145315234868526,1 min,2 mins,1 min,96
+4416,Star Paradise PG (Ladies),12.8372015,77.6493761,PG,"Electronic City, Bengaluru",1.7584462441198199,0.613135631709137,4 mins,4 mins,4 mins,242
+4417,Srinivasa pg,12.853350599999999,77.6631727,PG,"Electronic City, Bengaluru",0.8994621347662066,2.229422399446107,11 mins,12 mins,11 mins,713
+4419,Sri Padmalaya PG for Ladies,12.850829699999998,77.6568751,PG,"Electronic City, Bengaluru",0.9342703738706263,1.5181018470553587,8 mins,10 mins,9 mins,593
+4420,Brindavan ladies pg maintained by prazo,12.853173,77.66331170000001,PG,"Electronic City, Bengaluru",0.8795542395881275,2.2305727186661373,11 mins,12 mins,10 mins,690
+4421,Tulasi PG for GIRLS,12.8389595,77.6503833,PG,"Electronic City, Bengaluru",1.5688898799199231,0.5442762621712809,2 mins,3 mins,3 mins,183
+4422,Caveland pg for ladies,12.8538406,77.6632813,PG,"Electronic City, Bengaluru",0.9538004925778086,2.270640516231778,11 mins,12 mins,11 mins,731
+4423,Caveland pg for ladies,12.8538406,77.6632813,PG,"Electronic City, Bengaluru",0.9538004925778086,2.270640516231778,11 mins,12 mins,11 mins,731
+4428,Stanza Living Amsterdam House,12.8414469,77.6451781,PG,"Electronic City, Bengaluru",2.0131461274980245,0.13254675128841276,1 min,1 min,1 min,50
+4430,Sri Sai Lakshmi PG for gents (8th cross),12.8383629,77.6480337,PG,"Electronic City, Bengaluru",1.8272348042530262,0.429226875716222,3 mins,3 mins,3 mins,169
+4431,Sri Sathya Sai PG For Gents,12.853859,77.663656,PG,"Electronic City, Bengaluru",0.9564844743837314,2.304826224768855,12 mins,13 mins,11 mins,756
+4434,JMJ LADIES PG,12.8536613,77.662762,PG,"Electronic City, Bengaluru",0.9358773570038167,2.2134313332556794,11 mins,12 mins,11 mins,729
+4441,JMJ grand ladies pg,12.8533952,77.6631605,PG,"Electronic City, Bengaluru",0.9044464711825564,2.2311895836237694,11 mins,12 mins,11 mins,713
+4442,Sri Lakshmi vilas Ladies Hostel,12.853208,77.6634821,PG,"Electronic City, Bengaluru",0.8835974282661535,2.248028760039242,11 mins,11 mins,10 mins,684
+4444,Paradise PG 2,12.837999,77.6479605,PG,"Electronic City, Bengaluru",1.8517301966458586,0.46298847959375977,3 mins,3 mins,3 mins,183
+4445,Balaji PG,12.850947999999999,77.6568503,PG,"Electronic City, Bengaluru",0.9450338196286611,1.5247763177762983,8 mins,10 mins,9 mins,596
+4446,LR PG for Gents,12.853094300000002,77.65509509999998,PG,"Electronic City, Bengaluru",1.2471251792897247,1.570689958568322,10 mins,11 mins,9 mins,659
+4448,Sri Srinivasa gents pg,12.8490318,77.6560445,PG,"Electronic City, Bengaluru",0.8941339739163319,1.321917444375781,9 mins,10 mins,9 mins,625
+4456,Uniworld,12.841450199999999,77.6451686,PG,"Electronic City, Bengaluru",2.014075638289483,0.13339543807313275,1 min,1 min,1 min,88
+4457,RRC Preimum PG,12.8371638,77.64850129999999,PG,"Electronic City, Bengaluru",1.842719031935143,0.5715167925686869,4 mins,4 mins,4 mins,259
+4460,Sri BHAVANI PG For Ladies,12.854061199999999,77.66474740000001,PG,"Electronic City, Bengaluru",0.9903074209247008,2.4148049101889884,11 mins,12 mins,11 mins,732
+4461,Divine homes,12.8414195,77.64927469999999,PG,"Electronic City, Bengaluru",1.5825915656293068,0.32280145547071487,1 min,2 mins,1 min,102
+4463,PG gents,12.838122199999999,77.6450985,PG,"Electronic City, Bengaluru",2.130085144892959,0.43517806622955524,2 mins,3 mins,2 mins,156
+4464,Stanza Living Regina house,12.837762699999999,77.6491013,PG,"Electronic City, Bengaluru",1.753617383861396,0.5445783763207402,3 mins,4 mins,3 mins,223
+4465,Grexter Polaris,12.8387213,77.650401,PG,"Electronic City, Bengaluru",1.5791978126562114,0.5618169789222235,3 mins,3 mins,3 mins,191
+4469,KVR PG FOR GENTS,12.8516951,77.6639789,PG,"Electronic City, Bengaluru",0.7186668274691502,2.2045698121085673,9 mins,10 mins,9 mins,623
+4472,Lakshmi Nivas PG For Gents,12.8528281,77.66322509999999,PG,"Electronic City, Bengaluru",0.8412778334906205,2.2013296794516517,10 mins,11 mins,10 mins,666
+4475,Zolo Orenda,12.839227099999999,77.6467843,PG,"Electronic City, Bengaluru",1.9152417307139948,0.2954815093055112,2 mins,2 mins,2 mins,117
+4476,Executive PG,12.8530012,77.66392540000001,PG,"Electronic City, Bengaluru",0.8628653539288242,2.2753260610826436,10 mins,11 mins,10 mins,667
+4478,SLN-1 Ladies PG,12.847262400000002,77.66107559999999,PG,"Electronic City, Bengaluru",0.3304039528423523,1.7082833755792348,7 mins,8 mins,7 mins,488
+4483,Stanza Living Aurora House,12.832845800000001,77.6495732,PG,"Electronic City, Bengaluru",2.032452913474152,1.0608858683658984,5 mins,6 mins,5 mins,335
+4484,MY HOME NEW PG,12.832861300000001,77.6579245,PG,"Electronic City, Bengaluru",1.498372812548543,1.6057935398126244,7 mins,8 mins,7 mins,493
+4486,SFS COLLEGE and PG CENTRE (St Francis de Sales College),12.8452145,77.6601695,PG,"Electronic City, Bengaluru",0.34269262010979873,1.5464285339022217,6 mins,7 mins,6 mins,420
+4487,Grexter orion,12.8392021,77.6466313,PG,"Electronic City, Bengaluru",1.9317540893994063,0.29593404312509053,2 mins,2 mins,2 mins,119
+4489,"Godrej E-City, Bangalore",12.8517386,77.6527574,PG,"Electronic City, Bengaluru",1.3536055208732158,1.3020398177171124,8 mins,9 mins,8 mins,544
+4496,Velankani Tech Park,12.8491204,77.65828929999999,PG,"Electronic City, Bengaluru",0.69470726280184,1.5281205396278716,7 mins,9 mins,7 mins,517
+6794,MANYA Hi-Living,12.8499394,77.6535815,Apartment,"J.P. Nagar, Bengaluru",1.177856364538182,1.1948832495226827,9 mins,10 mins,9 mins,621
+7449,SJR Equinox Apartment,12.848972400000001,77.6570602,Apartments,"Junnasandra, Bengaluru",0.7950868396346206,1.407489604149306,8 mins,10 mins,9 mins,575
+8050,Paying guest for ladies,12.850566699999998,77.66452579999999,PG,"Junnasandra, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+8070,Naggachaittanyapg For Gents,12.8417037,77.6499124,PG,"Junnasandra, Bengaluru",1.5075361560202623,0.38874180995294993,2 mins,2 mins,2 mins,132
+8075,Zolo Delphi,12.839968800000001,77.64998299999999,PG,"Junnasandra, Bengaluru",1.5621736549786178,0.4477692488925861,2 mins,2 mins,2 mins,145
+8077,New Deluxe PG,12.8329072,77.6568181,PG,"Junnasandra, Bengaluru",1.544685230759861,1.5103695833233939,7 mins,8 mins,7 mins,485
+8090,Stanza Living Messina House,12.837764100000001,77.64942640000001,PG,"Junnasandra, Bengaluru",1.7226193239610652,0.5646661205355489,3 mins,4 mins,4 mins,236
+9003,Prestige Sunrise Park Norwood,12.834542599999999,77.6637588,Apartment,"Kadubeesanahalli, Bengaluru",1.1929624790522688,2.0567565767812317,10 mins,12 mins,11 mins,729
+9734,Prestige Sunrise Park Norwood,12.834542599999999,77.6637588,Apartment,"Kaverappa Layout, Bengaluru",1.1929624790522688,2.0567565767812317,10 mins,12 mins,11 mins,729
+10758,G K PG,12.8502966,77.6589733,PG,"Koramangala, Karnataka",0.7323726655211714,1.6618021547054098,8 mins,10 mins,9 mins,589
+10762,Comfort Homes Ladies PG,12.8396164,77.6456462,PG,"Koramangala, Karnataka",2.017372575376685,0.2588856126418905,2 mins,2 mins,2 mins,123
+11037,Apartment building,12.845364,77.62824379999999,Apartment,"Lakkasandra, Bengaluru",3.80380499907255,1.999362513843976,8 mins,9 mins,8 mins,528
+11834,MANYA Hi-Living,12.8499394,77.6535815,Apartment,"Marathahalli, Bengaluru",1.177856364538182,1.1948832495226827,9 mins,10 mins,9 mins,621
+12954,Paying guest for ladies,12.850566699999998,77.66452579999999,PG,"MG Road, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+14020,Paying guest for ladies,12.850566699999998,77.66452579999999,PG,"Radha Reddy Layout, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+14026,Manu Ladies PG maintained by Prazo,12.8531189,77.6635973,PG,"Radha Reddy Layout, Bengaluru",0.8740164073104828,2.2528435445127912,11 mins,11 mins,10 mins,680
+14347,MANYA Hi-Living,12.8499394,77.6535815,Apartments,"Sarjapura, Bengaluru",1.177856364538182,1.1948832495226827,9 mins,10 mins,9 mins,621
+14398,MANYA Hi-Living,12.8499394,77.6535815,Apartments,"Sarjapura, Bengaluru",1.177856364538182,1.1948832495226827,9 mins,10 mins,9 mins,621
+14607,"HP %26 DXC Office, Suryawave",12.8471441,77.6590347,Office,"Sarjapura, Bengaluru",0.5104940202282215,1.498029148370393,7 mins,8 mins,7 mins,504
+14618,HPE,12.840073199999999,77.6645861,Office,"Sarjapura, Bengaluru",0.5929281645252859,1.9890580490087224,9 mins,10 mins,9 mins,611
+14651,Broadcom Limited,12.838004699999999,77.6544898,Office,"Sarjapura, Bengaluru",1.2529756064934823,0.982448712199515,7 mins,8 mins,7 mins,482
+14680,Altimetrik India Private Limited,12.851349800000001,77.6636359,Office,"Sarjapura, Bengaluru",0.6776324384350673,2.153276960003334,9 mins,10 mins,9 mins,614
+14837,Colive Imperia PG,12.8521846,77.6661837,PG,"Sarjapura, Bengaluru",0.8294932730687116,2.4401056933818634,11 mins,13 mins,11 mins,758
+14840,Paying guest for ladies,12.850566699999998,77.66452579999999,PG,"Sarjapura, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+15027,Prestige Sunrise Park Norwood,12.834542599999999,77.6637588,Apartments,"Thygaraja Layout, Bengaluru",1.1929624790522688,2.0567565767812317,10 mins,12 mins,11 mins,729
+15045,"Godrej E-City, Bangalore",12.8517386,77.6527574,Apartments,"Thygaraja Layout, Bengaluru",1.3536055208732158,1.3020398177171124,8 mins,9 mins,8 mins,544
+15708,Paying guest for ladies,12.850566699999998,77.66452579999999,PG,"Thygaraja Layout, Bengaluru",0.6038219285012842,2.198067253917239,10 mins,11 mins,10 mins,638
+15994,Prestige Sunrise Park Norwood,12.834542599999999,77.6637588,Apartments,"Vivek nagar, Bengaluru",1.1929624790522688,2.0567565767812317,10 mins,12 mins,11 mins,729
+16815,MANYA Hi-Living,12.8499394,77.6535815,Apartment,"Whitefield, Bengaluru",1.177856364538182,1.1948832495226827,9 mins,10 mins,9 mins,621
